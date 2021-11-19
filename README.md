@@ -9,6 +9,7 @@ Berisi API untuk kebutuhan Whatsapp bot
 | Nama API        | Developer | URL | Status  | Deskripsi | `Auth` |
 | --------------- |:---------:|:---:|:-------:|:----------|:------:|
 | Xteam | XTEAM | [Link](https://xteam.xyz) | `Aktif` | API collection. | APIKEY |
+| Antei codes| Mhankbarbar | [Link](https://antei.codes/) | `Aktif` | API collection. | APIKEY |
 | Vhtear | veza | [Link](https://vhtear.com) | `Aktif` | API collection | APIKEY |
 | Caliph | caliph | [Link](https://caliph71.xyz) | `Aktif` | API collection | APIKEY |
 | Hardianto | Hardianto | [Link](https://hardianto.xyz) | `Aktif` | API collection | `APIKEY` |
