@@ -26,3 +26,4 @@ Berisi API untuk kebutuhan Whatsapp bot
 | Dhnjing | Dehan | [Link](https://dhnjing.xyz) | `Aktif` | API collection | APIKEY |
 | Mfarels Api | mfarels | [Link](https://www.mfarels.id) | `Aktif` | APIKEY | `Tidak` |
 | Kocakz | ArugaZ | [Link](https://kocakz.herokuapp.com) | `Aktif` | API collection | `Tidak` |
+| Rev Api | Revita | [Link](https://revita.herokuapp.com) | `Aktif` | API collection | `APIKEY` |
