@@ -1,0 +1,8 @@
+{
+  "name": "REST-API-BOT",
+  "version": "1.0.0",
+  "description": "README.md",
+  "main": "main",
+  "directories": {
+    "lib": "lib"
+  }
