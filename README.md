@@ -21,8 +21,8 @@ Berisi API untuk kebutuhan Whatsapp bot
 | Lolhuman Api| lolhuman | [Link](https://api.lolhuman.xyz) | `Aktif` | API collection | APIKEY |
 | Bx Hunter | ikyy | [Link](https://bx-hunter.herokuapp.com) | `Aktif` | API collection | `APIKEY` |
 | Ostch | ibnusyawall | [Link](https://ostch.herokuapp.com) | `Aktif` | API collection | APIKEY |
-| Tobz api | Toby | [Link](https://tobz-api.herokuapp.com) | `Aktif` | API collection | APIKEY |
-| Sentiment Classification API | ramnaufal | [Link](https://ramnaufal.herokuapp.com/#/Sentiment/post_sentiment_single) | `Aktif` | Mengklasifikasikan sentiment sebuah kalimat | Tidak |
-| Free API | Helix x 4DSec | [Link](https://tools.helixs.id/home/?API) | `Aktif` | Kumpulan Free API tanpa Limit | Tidak |
-| Fxc7 API | Fxc7 | [Link](https://fxc7-api.herokuapp.com) | `Aktif` | Kumpulan API Menarik | `Apikey` |
-| Api SMS | Virdig | [Link](https://jotp.me) | `Aktif` | Sms Gratis Dan Penyedia API Sms Ke Seluruh Nomor/Operator Di Indonesia | `Apikey,Secret,Acid` |
+| Tobz API | Toby | [Link](https://tobz-api.herokuapp.com) | `Aktif` | API collection | APIKEY |
+| zeksais | zeksais | [Link](http://zekais-api.herokuapp.com) | `Aktif` | API collection | APIKEY |
+| Dhnjing | Dehan | [Link](https://dhnjing.xyz) | `Aktif` | API collection | APIKEY |
+| Mfarels Api | mfarels | [Link](https://www.mfarels.id) | `Aktif` | APIKEY | `Tidak` |
+| Kocakz | ArugaZ | [Link](https://kocakz.herokuapp.com) | `Aktif` | API collection | `Tidak` |
