@@ -16,6 +16,7 @@ Berisi API untuk kebutuhan Whatsapp bot
 | Hadi Api | m hadi | [Link](https://hadi-api.herokuapp.com/api) | `Aktif` | API collection | Tidak |
 | ZenApi | zeen | [Link](https://zenzapi.xyz) | `Aktif` | API collection | APIKEY |
 | Zeks Api | vinz | [Link](https://zeks.me) | `Aktif` | API collection | APIKEY |
+| Starz Api | Bintang | [Link](http://st4rz.herokuapp.com/) | `Aktif` | API collection | TIDAK |
 | Xcode | xcode7 | [Link](https://api-xcoders.xyz/) | `Aktif` | API collection | APIKEY |
 | ArugaZ API | ArugaZ | [Link](https://restfulapi.my.id/arugaz) | `Aktif` | Hasil Scrape Website - Lengkap | Tidak |
 | Neoxr | neoxr | [Link](https://api.neoxr.eu.org) | `Aktif` | API Collection | APIKEY |
