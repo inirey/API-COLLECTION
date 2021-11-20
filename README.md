@@ -29,6 +29,7 @@ Berisi API untuk kebutuhan Whatsapp bot
 | Mfarels Api | mfarels | [Link](https://www.mfarels.id) | `Aktif` | APIKEY | `Tidak` |
 | Kocakz | ArugaZ | [Link](https://kocakz.herokuapp.com) | `Aktif` | API collection | `Tidak` |
 | Revita Api | Revita | [Link](https://revita.herokuapp.com) | `Aktif` | API collection | `APIKEY` |
+| nzcha Api | MRHRTZ | [Link](nzcha-apii.herokuapp.com) | `Aktif` | API collection | `Tidak` |
 
 ## :fire: Tambahan
 
