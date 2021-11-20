@@ -31,7 +31,8 @@ Berisi API untuk kebutuhan Whatsapp bot
 | Revita Api | Revita | [Link](https://revita.herokuapp.com) | `Aktif` | API collection | `APIKEY` |
 | nzcha Api | MRHRTZ | [Link](nzcha-apii.herokuapp.com) | `Aktif` | API collection | Tidak |
 | Jarx Api | Fajar | [Link](https://api.jarx.me) | `Aktif` | API collection | `APIKEY` |
-| Zeeone Api | zeeone | [Link](https://api-zeeoneofc.herokuapp.com/) | `Aktif` | API collection | `APIKEY` |
+| Zeeone Api | zeeone | [Link](https://api-zeeoneofc.herokuapp.com) | `Aktif` | API collection | `APIKEY` |
+| Nurutomo Api | Nurutomo | [Link](nurutomo.herokuapp.com) | `Aktif` | API collection | `APIKEY` |
 
 ## :fire: Tambahan
 
