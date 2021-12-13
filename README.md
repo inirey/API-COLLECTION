@@ -34,6 +34,7 @@ Berisi API untuk kebutuhan Whatsapp bot
 | Zeeone Api | zeeone | [Link](https://api-zeeoneofc.herokuapp.com) | `Aktif` | API collection | `APIKEY` |
 | Nurutomo Api | Nurutomo | [Link](https://nurutomo.herokuapp.com) | `Aktif` | API collection | Tidak |
 | Erdwpe Api | Erdwpe | [Link](https://erdwpe-api.herokuapp.com) | `Aktif` | API collection | Tidak |
+| Melcanz Rest Api | [ariffb25](https://github.com/ariffb25) & [melcanz](https://github.com/melcanz) | [Link](https://melcanz.com) | `Aktif` | API collection | `apikey` |
 
 ## :fire: Tambahan
 
