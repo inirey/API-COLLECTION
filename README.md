@@ -16,6 +16,7 @@ Berisi API untuk kebutuhan Whatsapp bot
 | Hadi Api | m hadi | [Link](https://hadi-api.herokuapp.com/api) | `Aktif` | API collection | Tidak |
 | ZenApi | zeen | [Link](https://zenzapi.xyz) | `Aktif` | API collection | `APIKEY` |
 | Zeks Api | vinz | [Link](https://zeks.me) | `Aktif` | API collection | `APIKEY` |
+| Rns Api | rey | [Link](https://server-api-rey.herokuapp.com) | `Aktif` | API collection | `APIKEY` |
 | Starz Api | Bintang | [Link](http://st4rz.herokuapp.com/) | `Aktif` | API collection | Tidak |
 | Xcode | xcode7 | [Link](https://api-xcoders.xyz/) | `Aktif` | API collection | `APIKEY` |
 | ArugaZ API | ArugaZ | [Link](https://restfulapi.my.id/arugaz) | `Aktif` | Hasil Scrape Website - Lengkap | Tidak |
@@ -26,7 +27,7 @@ Berisi API untuk kebutuhan Whatsapp bot
 | Tobz API | Toby | [Link](https://tobz-api.herokuapp.com) | `Aktif` | API collection | `APIKEY` |
 | zeksais | zeksais | [Link](http://zekais-api.herokuapp.com) | `Aktif` | API collection | `APIKEY` |
 | Dhnjing | Dehan | [Link](https://dhnjing.xyz) | `Aktif` | API collection | `APIKEY` |
-| Mfarels Api | mfarels | [Link](https://www.mfarels.id) | `Aktif` | APIKEY | Tidak |
+| Mfarels Api | mfarels | [Link](https://www.mfarels.id) | `Aktif` | Api collection | Tidak |
 | Kocakz | ArugaZ | [Link](https://kocakz.herokuapp.com) | `Aktif` | API collection | Tidak |
 | Revita Api | Revita | [Link](https://revita.herokuapp.com) | `Aktif` | API collection | `APIKEY` |
 | nzcha Api | MRHRTZ | [Link](https://nzcha-apii.herokuapp.com) | `Aktif` | API collection | Tidak |
