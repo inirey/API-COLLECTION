@@ -37,6 +37,7 @@ Berisi API untuk kebutuhan Whatsapp bot
 | Erdwpe Api | Erdwpe | [Link](https://erdwpe-api.herokuapp.com) | `Aktif` | API collection | Tidak |
 | Melcanz Rest Api | [ariffb25](https://github.com/ariffb25) & [melcanz](https://github.com/melcanz) | [Link](https://melcanz.com) | `Aktif` | API collection | `apikey` |
 | Botstyle-api | [Benniismael](https://github.com/botstylee) | [Link](https://bsbt-api-rest.herokuapp.com/) | `Aktif` | API collection | `APIKEY` |
+| FERDI Z-AFK | [FERDIZ-afk](https://github.com/FERDIZ-afk) | [Link](https://ferdiz-afk.my.id/) | `Aktif` | API collection | `APIKEY` |
 
 ## :fire: Tambahan
 
