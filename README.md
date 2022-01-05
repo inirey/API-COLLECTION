@@ -2,7 +2,7 @@
 
 # Daftar REST API untuk kebutuhan Whatsapp bot
 
-Berisi API untuk kebutuhan Whatsapp bot
+Daftar API untuk kebutuhan Whatsapp bot
 
 ### LIST API
 
