@@ -40,6 +40,8 @@ Daftar API untuk kebutuhan Whatsapp bot
 | Botstyle-api | [Benniismael](https://github.com/botstylee) | [Link](https://bsbt-api-rest.herokuapp.com/) | `Aktif` | API collection | `APIKEY` |
 | FERDI Z-AFK | [FERDIZ-afk](https://github.com/FERDIZ-afk) | [Link](https://ferdiz-afk.my.id/) | `Aktif` | API collection | `APIKEY` |
 | Free Rest API | [SAMPINDO](https://sampindo.id) | [Link](https://freeapi.sampindo.id/) | `Aktif` | API Collection | Tidak |
+| Kotzyy API | [Kotzyy](https://github.com/Kotzyy) | [Link](https://api.justkotz.tech) | `Aktif` | API Collection | `APIKEY` |
+
 
 ## :fire: Tambahan
 
