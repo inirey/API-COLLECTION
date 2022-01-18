@@ -42,9 +42,8 @@ Daftar API untuk kebutuhan Whatsapp bot
 | Free Rest API | [SAMPINDO](https://sampindo.id) | [Link](https://freeapi.sampindo.id/) | `Aktif` | API Collection | Tidak |
 | Kotzyy API | [Kotzyy](https://github.com/Kotzyy) | [Link](https://api.justkotz.tech) | `Aktif` | API Collection | `APIKEY` |
 | Sanuwa API | [Sanuwa](https://github.com/sanuwaofficial) | [Link](https://api-sanuwa.herokuapp.com/) | `Aktif` | API Collection | `APIKEY` |
-
-
+| Wibusoft Api | ArugaZ | [Link](https://api.wibusoft.com) | `Aktif` | API collection | `TIDAK` |
 
 ## :fire: Tambahan
 
-Jika ingin menambahkan List API nya langsung aja pull request atau komen lewat issue Arigatou :)
+Jika ingin menambahkan List API nya langsung aja pull request Arigatou :)
