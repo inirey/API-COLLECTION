@@ -36,13 +36,14 @@ Daftar API untuk kebutuhan Whatsapp bot
 | Nurutomo Api | Nurutomo | [Link](https://nurutomo.herokuapp.com) | `Aktif` | API collection | Tidak |
 | Erdwpe Api | Erdwpe | [Link](https://erdwpe-api.herokuapp.com) | `Aktif` | API collection | Tidak |
 | AdiOfficial API | M imam Adi | [Link](https://adiofficial-api.herokuapp.com) | `Aktif` | API collection. | `APIKEY` |
-| Melcanz Rest Api | [ariffb25](https://github.com/ariffb25) & [melcanz](https://github.com/melcanz) | [Link](https://melcanz.com) | `Aktif` | API collection | `apikey` |
+| Melcanz Rest Api | [ariffb25](https://github.com/ariffb25) & [melcanz](https://github.com/melcanz) | [Link](https://melcanz.com) | `Aktif` | API collection | `APIKEY` |
 | Botstyle-api | [Benniismael](https://github.com/botstylee) | [Link](https://bsbt-api-rest.herokuapp.com/) | `Aktif` | API collection | `APIKEY` |
 | FERDI Z-AFK | [FERDIZ-afk](https://github.com/FERDIZ-afk) | [Link](https://ferdiz-afk.my.id/) | `Aktif` | API collection | `APIKEY` |
 | Free Rest API | [SAMPINDO](https://sampindo.id) | [Link](https://freeapi.sampindo.id/) | `Aktif` | API Collection | Tidak |
 | Kotzyy API | [Kotzyy](https://github.com/Kotzyy) | [Link](https://api.justkotz.tech) | `Aktif` | API Collection | `APIKEY` |
 | Sanuwa API | [Sanuwa](https://github.com/sanuwaofficial) | [Link](https://api-sanuwa.herokuapp.com/) | `Aktif` | API Collection | `APIKEY` |
 | Wibusoft Api | ArugaZ | [Link](https://api.wibusoft.com) | `Aktif` | API collection | `TIDAK` |
+| Daphuy Api | dappa | [Link](https://dapuhy.xyz/) | `Aktif` | API collection | `APIKEY` |
 
 ## :fire: Tambahan
 
