@@ -42,7 +42,7 @@ Daftar API untuk kebutuhan Whatsapp bot
 | Free Rest API | [SAMPINDO](https://sampindo.id) | [Link](https://freeapi.sampindo.id/) | `Aktif` | API Collection | Tidak |
 | Kotzyy API | [Kotzyy](https://github.com/Kotzyy) | [Link](https://api.justkotz.tech) | `Aktif` | API Collection | `APIKEY` |
 | Sanuwa API | [Sanuwa](https://github.com/sanuwaofficial) | [Link](https://api-sanuwa.herokuapp.com/) | `Aktif` | API Collection | `APIKEY` |
-| Wibusoft Api | ArugaZ | [Link](https://api.wibusoft.com) | `Aktif` | API collection | `TIDAK` |
+| Wibusoft Api |  [Arugaz](https://github.com/arugaz) | [Link](https://api.wibusoft.com) | `Aktif` | API collection | `TIDAK` |
 | Daphuy Api | dappa | [Link](https://dapuhy.xyz/) | `Aktif` | API collection | `APIKEY` |
 | Jojo Api | jojo | [Link](https://docs-jojo.herokuapp.com) | `Aktif` | API collection | `TIDAK` |
 
