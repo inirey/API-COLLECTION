@@ -16,7 +16,7 @@ Daftar API untuk kebutuhan Whatsapp bot
 | Hadi Api | m hadi | [Link](https://hadi-api.herokuapp.com/api) | `Aktif` | API collection | Tidak |
 | ZenApi | zeen | [Link](https://zenzapi.xyz) | `Aktif` | API collection | `APIKEY` |
 | Zeks Api | vinz | [Link](https://zeks.me) | `Aktif` | API collection | `APIKEY` |
-| Rns Api | rey | [Link](https://api.reysekha.my.id) | `Aktif` | API collection | `APIKEY` |
+| Rns Api | rey | [Link](https://api.sekha.tech) | `Aktif` | API collection | `APIKEY` |
 | Starz Api | Bintang | [Link](http://st4rz.herokuapp.com/) | `Aktif` | API collection | Tidak |
 | Xcode | xcode7 | [Link](https://api-xcoders.xyz/) | `Aktif` | API collection | `APIKEY` |
 | ArugaZ API | ArugaZ | [Link](https://restfulapi.my.id/arugaz) | `Aktif` | Hasil Scrape Website - Lengkap | Tidak |
@@ -44,6 +44,7 @@ Daftar API untuk kebutuhan Whatsapp bot
 | Sanuwa API | [Sanuwa](https://github.com/sanuwaofficial) | [Link](https://api-sanuwa.herokuapp.com/) | `Aktif` | API Collection | `APIKEY` |
 | Wibusoft Api | ArugaZ | [Link](https://api.wibusoft.com) | `Aktif` | API collection | `TIDAK` |
 | Daphuy Api | dappa | [Link](https://dapuhy.xyz/) | `Aktif` | API collection | `APIKEY` |
+| Jojo Api | jojo | [Link](https://docs-jojo.herokuapp.com) | `Aktif` | API collection | `TIDAK` |
 
 ## :fire: Tambahan
 
