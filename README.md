@@ -47,6 +47,7 @@ Daftar API untuk kebutuhan Whatsapp bot
 | Jojo Api | jojo | [Link](https://docs-jojo.herokuapp.com) | `Aktif` | API collection | `TIDAK` |
 | Zacros Api | Zacros Team | [Link](https://api.zacros.my.id/) | `Aktif` | API collection | `TIDAK` |
 | Cakrayp Api | Cakra YP | [Link](https://cakrayp.herokuapp.com/api) | `Aktif` | API collection | `APIKEY` |
+| Restu Api | [MuhammadRestu999](https://github.com/MuhammadRestu999) | [Link](https://restu-restapi.herokuapp.com) | `Aktif` | RestApi full json | Tidak |
 
 ## :fire: Tambahan
 
