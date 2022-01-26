@@ -41,7 +41,7 @@ Daftar API untuk kebutuhan Whatsapp bot
 | FERDI Z-AFK | [FERDIZ-afk](https://github.com/FERDIZ-afk) | [Link](https://ferdiz-afk.my.id/) | `Aktif` | API collection | `APIKEY` |
 | Free Rest API | [SAMPINDO](https://sampindo.id) | [Link](https://freeapi.sampindo.id/) | `Aktif` | API Collection | Tidak |
 | Kotzyy API | [Kotzyy](https://github.com/Kotzyy) | [Link](https://api.justkotz.tech) | `Aktif` | API Collection | `APIKEY` |
-| Sanuwa API | [Sanuwa](https://github.com/sanuwaofficial) | [Link](https://api-sanuwa.herokuapp.com/) | `Aktif` | API Collection | `APIKEY` |
+| Sanuwa API | [Sanuwa](https://github.com/sanuwaofficial) | [Link](https://sanuwa-api.herokuapp.com/) | `Aktif` | API Collection | `APIKEY` |
 | Wibusoft Api |  [Arugaz](https://github.com/arugaz) | [Link](https://api.wibusoft.com) | `Aktif` | API collection | `TIDAK` |
 | Daphuy Api | dappa | [Link](https://dapuhy.xyz/) | `Aktif` | API collection | `APIKEY` |
 | Jojo Api | jojo | [Link](https://docs-jojo.herokuapp.com) | `Aktif` | API collection | `TIDAK` |
