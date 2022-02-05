@@ -12,6 +12,7 @@ Daftar API untuk kebutuhan Whatsapp bot
 | Antei codes| Antei codes Team | [Link](https://antei.codes/) | `Aktif` | API collection. | `APIKEY` |
 | Vhtear | veza | [Link](https://vhtear.com) | `Aktif` | API collection | `APIKEY` |
 | Caliph | caliph | [Link](https://caliphapi.com) | `Aktif` | API collection | `APIKEY` |
+| Fadly ID | xdlyy404 | [Link](https://api-faza.herokuapp.com) | `Aktif` | API collection | `APIKEY` |
 | Hardianto | Hardianto | [Link](https://hardianto.xyz) | `Aktif` | API collection | `APIKEY` |
 | Hadi Api | m hadi | [Link](https://hadi-api.herokuapp.com/api) | `Aktif` | API collection | Tidak |
 | ZenApi | zeen | [Link](https://zenzapi.xyz) | `Aktif` | API collection | `APIKEY` |
