@@ -48,7 +48,8 @@ Daftar API untuk kebutuhan Whatsapp bot
 | Zacros Api | Zacros Team | [Link](https://api.zacros.my.id/) | `Aktif` | API collection | `TIDAK` |
 | Cakrayp Api | Cakra YP | [Link](https://cakrayp.herokuapp.com/api) | `Aktif` | API collection | `APIKEY` |
 | Restu Api | [MuhammadRestu999](https://github.com/MuhammadRestu999) | [Link](https://restu-restapi.herokuapp.com) | `Aktif` | RestApi full json | Tidak |
-| Wann Ofc  | wannofc | [Link] (https://api-invibot.herokuapp.com) | `Aktif` | API collection | `APIKEY` | 
+| Wann ofc | wannofc | [Link](https://api-invibot.herokuapp.com) | `Aktif` | API collection | `APIKEY` |
+
 ## :fire: Tambahan
 
 Jika ingin menambahkan List API nya langsung aja pull request Arigatou :)
