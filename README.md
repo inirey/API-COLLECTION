@@ -53,7 +53,7 @@ Daftar API untuk kebutuhan Whatsapp bot
 | Wann ofc | wannofc | [Link](https://api-invibot.herokuapp.com) | `Aktif` | API collection | `APIKEY` |
 | TOXIC DEVIL API | [TOXIC-DEVIL](https://github.com/TOXIC-DEVIL) | [Link](https://api-toxic-devil.herokuapp.com) | `Aktif` | TOXIC DEVIL API - Free Rest API| `TIDAK` |
 | YUU API | sidaniid | [Link](https://yuuapi.herokuapp.com) | `Aktif` | API Collection| `APIKEY` |
-
+| AquaBot API | [Sanuwa](https://github.com/sanuwaofficial) | [Link](https://api-aquabot.herokuapp.com/) | `Aktif` | API Collection | `APIKEY` |
 ## :fire: Tambahan
 
 Jika ingin menambahkan List API nya langsung aja pull request Arigatou :)
