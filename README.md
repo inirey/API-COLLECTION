@@ -55,6 +55,7 @@ Daftar API untuk kebutuhan Whatsapp bot
 | YUU API | sidaniid | [Link](https://yuuapi.herokuapp.com) | `Aktif` | API Collection| `APIKEY` |
 | AquaBot API | [Sanuwa](https://github.com/sanuwaofficial) | [Link](https://api-aquabot.herokuapp.com/) | `Aktif` | API Collection | `APIKEY` |
 | violetics API | FazOne, Dehante,Zyy | [Link](https://violetics.pw) | `Aktif` | API Collection | `APIKEY` |
+| Yourclown API | Skh | [Link](https://yourclown.eu.org) | `Aktif` | API Collection | `APIKEY` |
 ## :fire: Tambahan
 
 Jika ingin menambahkan List API nya langsung aja pull request Arigatou :)
