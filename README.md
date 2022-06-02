@@ -16,7 +16,7 @@ Daftar API untuk kebutuhan Whatsapp bot
 | Ramlan Api | Ramlan ID | [Link](https://api-ramlan.herokuapp.com) | `Aktif` | API collection | `APIKEY` |
 | Hardianto | Hardianto | [Link](https://hardianto.xyz) | `Aktif` | API collection | `APIKEY` |
 | Hadi Api | m hadi | [Link](https://hadi-api.herokuapp.com/api) | `Aktif` | API collection | Tidak |
-| ZenApi | zeen | [Link](https://zenzapi.xyz) | `Aktif` | API collection | `APIKEY` |
+| Zenz Api | [zhwzein](https://github.com/zhwzein) | [Link](https://zenzapis.xyz) | `Aktif` | API collection | `APIKEY` |
 | Zeks Api | vinz | [Link](https://zeks.me) | `Aktif` | API collection | `APIKEY` |
 | Rns Api | rey | [Link](https://api.sekha.tech) | `Aktif` | API collection | `APIKEY` |
 | Starz Api | Bintang | [Link](http://st4rz.herokuapp.com/) | `Aktif` | API collection | Tidak |
