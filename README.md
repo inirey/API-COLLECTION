@@ -18,7 +18,7 @@ Daftar API untuk kebutuhan Whatsapp bot
 | Hadi Api | m hadi | [Link](https://hadi-api.herokuapp.com/api) | `Aktif` | API collection | Tidak |
 | Zenz Api | [zhwzein](https://github.com/zhwzein) | [Link](https://zenzapis.xyz) | `Aktif` | API collection | `APIKEY` |
 | Zeks Api | vinz | [Link](https://zeks.me) | `Aktif` | API collection | `APIKEY` |
-| Rns Api | rey | [Link](https://sekha.me) | `Aktif` | API collection | `APIKEY` |
+| Rns Api | Reysekha | [Link](https://sekha.me) | `Aktif` | API collection | `APIKEY` |
 | Starz Api | Bintang | [Link](http://st4rz.herokuapp.com/) | `Aktif` | API collection | Tidak |
 | Xcode | xcode7 | [Link](https://api-xcoders.xyz/) | `Aktif` | API collection | `APIKEY` |
 | ArugaZ API | ArugaZ | [Link](https://restfulapi.my.id/arugaz) | `Aktif` | Hasil Scrape Website - Lengkap | Tidak |
@@ -55,7 +55,7 @@ Daftar API untuk kebutuhan Whatsapp bot
 | YUU API | sidaniid | [Link](https://yuuapi.herokuapp.com) | `Aktif` | API Collection| `APIKEY` |
 | AquaBot API | [Sanuwa](https://github.com/sanuwaofficial) | [Link](https://api-aquabot.herokuapp.com/) | `Aktif` | API Collection | `APIKEY` |
 | violetics API | FazOne, Dehante,Zyy | [Link](https://violetics.pw) | `Aktif` | API Collection | `APIKEY` |
-| Yourclown API | Skh | [Link](https://yourclown.eu.org) | `Aktif` | API Collection | `APIKEY` |
+| Yourclowns API | Reysekha | [Link](https://yourclown.eu.org) | `Aktif` | API Collection | `APIKEY` |
 | BETABOTZ API | Lanz | [Link](https://betabotz-api.herokuapp.com) | `Aktif` | API Collection | `APIKEY` |
 | Fatih Arridho API | Fatih | [Link](https://fatiharridho.herokuapp.com) | `Aktif` | API Collection | `TIDAK` |
 | JUSTNPC API | Ditzzy | [Link](https://api.justnpc.ml) | `Aktif` | API Collection | `YA` |
