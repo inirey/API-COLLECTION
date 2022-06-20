@@ -59,6 +59,8 @@ Daftar API untuk kebutuhan Whatsapp bot
 | BETABOTZ API | Lanz | [Link](https://betabotz-api.herokuapp.com) | `Aktif` | API Collection | `APIKEY` |
 | Fatih Arridho API | Fatih | [Link](https://fatiharridho.herokuapp.com) | `Aktif` | API Collection | `TIDAK` |
 | JUSTNPC API | Ditzzy | [Link](https://api.justnpc.ml) | `Aktif` | API Collection | `YA` |
+| ERZ API | erza | [Link](https://erzaa.site) | `Aktif` | API Collection | `YA` |
+
 
 ## :fire: Tambahan
 
