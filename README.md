@@ -9,7 +9,7 @@ Daftar API untuk kebutuhan Whatsapp bot
 | Nama API        | Developer | URL | Status  | Deskripsi | Auth |
 | --------------- |:---------:|:---:|:-------:|:----------|:------:|
 | Xteam | XTEAM | [Link](https://xteam.xyz) | `Aktif` | API collection. | `APIKEY` |
-| Danzz-api | Danzz Coding | [Link](https://danzz-api.herokuapp.com) | `Aktif` | API collection. | `APIKEY` |
+| Danzz Api | Danzz Coding | [Link](https://danzz-api.herokuapp.com) | `Aktif` | API collection. | `APIKEY` |
 | Antei codes| Antei codes Team | [Link](https://antei.codes/) | `Aktif` | API collection. | `APIKEY` |
 | Vhtear | veza | [Link](https://vhtear.com) | `Aktif` | API collection | `APIKEY` |
 | Caliph Rest API | [Caliph](https://github.com/Caliph91) | [Link](https://caliphapi.com) | `Aktif` | API collection | `APIKEY` |
