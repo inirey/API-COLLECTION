@@ -38,7 +38,7 @@ Daftar API untuk kebutuhan Whatsapp bot
 | Jarx Api | Fajar | [Link](https://api.jarx.me) | `Aktif` | API collection | `APIKEY` |
 | Zeeone Api | zeeone | [Link](https://api-zeeoneofc.herokuapp.com) | `Aktif` | API collection | `APIKEY` |
 | Nurutomo Api | Nurutomo | [Link](https://nurutomo.herokuapp.com) | `Aktif` | API collection | Tidak |
-| Erdwpe Api | Erdwpe | [Link](https://erdwpe-api.herokuapp.com) | `Aktif` | API collection | Tidak |
+| Erdwpe Api | Erdwpe | [Link](https://api.erdwpe.com/) | `Aktif` | API collection | Tidak |
 | AdiOfficial API | M imam Adi | [Link](https://api.adiofficial.xyz) | `Aktif` | API collection. | `APIKEY` |
 | Melcanz Rest Api | [ariffb25](https://github.com/ariffb25) & [melcanz](https://github.com/melcanz) | [Link](https://melcanz.com) | `Aktif` | API collection | `APIKEY` |
 | Botstyle-api | [Benniismael](https://github.com/botstylee) | [Link](https://bsbt-api-rest.herokuapp.com/) | `Aktif` | API collection | `APIKEY` |
