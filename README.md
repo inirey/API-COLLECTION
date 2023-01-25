@@ -8,6 +8,7 @@ Daftar API untuk kebutuhan Whatsapp bot
 
 | Nama API        | Developer | URL | Status  | Deskripsi | Auth |
 | --------------- |:---------:|:---:|:-------:|:----------|:------:|
+| Api Rull | Rull | [link](https://apiruulzz.my.id) | `Aktif` | API collection. | `APIKEY` |
 | Xteam | XTEAM | [Link](https://xteam.xyz) | `Aktif` | API collection. | `APIKEY` |
 | Danzz Api | Danzz Coding | [Link](https://danzzapi.xyz) | `Aktif` | API collection. | `APIKEY` |
 | Api Danzz | Danzz Coding | [Link](https://api-danzz.xyz) | `Aktif` | API collection. | `APIKEY` |
@@ -62,6 +63,7 @@ Daftar API untuk kebutuhan Whatsapp bot
 | Fatih Arridho API | Fatih | [Link](https://fatiharridho.herokuapp.com) | `Aktif` | API Collection | `TIDAK` |
 | JUSTNPC API | Ditzzy | [Link](https://api.justnpc.ml) | `Aktif` | API Collection | `YA` |
 | Erza API | erza | [Link](https://erzaa.site) | `Aktif` | API Collection | `YA` |
+| Rullz API | Rull | [link](https://apiruulzz.my.id) | `Aktif` | API Collection | `YA` |
 
 
 ## :fire: Tambahan
