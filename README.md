@@ -59,7 +59,7 @@ Daftar API untuk kebutuhan Whatsapp bot
 | AquaBot API | [Sanuwa](https://github.com/sanuwaofficial) | [Link](https://api-aquabot.herokuapp.com/) | `Aktif` | API Collection | `APIKEY` |
 | violetics API | FazOne, Dehante,Zyy | [Link](https://violetics.pw) | `Aktif` | API Collection | `APIKEY` |
 | Yourclowns API | Reysekha | [Link](https://yourclown.eu.org) | `Aktif` | API Collection | `APIKEY` |
-| BETABOTZ API | Lanz | [Link](https://betabotz-api.herokuapp.com) | `Aktif` | API Collection | `APIKEY` |
+| Fxacb API | Fxacb Team | [Link](https://www.fxacb-api.my.id) | `Aktif` | API Collection | `APIKEY` |
 | Fatih Arridho API | Fatih | [Link](https://fatiharridho.herokuapp.com) | `Aktif` | API Collection | `TIDAK` |
 | JUSTNPC API | Ditzzy | [Link](https://api.justnpc.ml) | `Aktif` | API Collection | `YA` |
 | Erza API | erza | [Link](https://erzaa.site) | `Aktif` | API Collection | `YA` |
