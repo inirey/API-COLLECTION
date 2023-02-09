@@ -14,7 +14,7 @@ Daftar API untuk kebutuhan Whatsapp bot
 | Api Danzz | Danzz Coding | [Link](https://api-danzz.xyz) | `Aktif` | API collection. | `APIKEY` |
 | Antei codes| Antei codes Team | [Link](https://antei.codes/) | `Aktif` | API collection. | `APIKEY` |
 | Vhtear | veza | [Link](https://vhtear.com) | `Aktif` | API collection | `APIKEY` |
-| Caliph Rest API | [Caliph](https://github.com/Caliph91) | [Link](https://caliphapi.com) | `Aktif` | API collection | `APIKEY` |
+| Caliph API | [CaliphDev](https://github.com/caliphdev) | [Link](https://api.caliph.biz.id) | `Aktif` | API collection | `APIKEY` |
 | Faza Api | Fadly ID | [Link](https://api-faza.herokuapp.com) | `Aktif` | API collection | `APIKEY` |
 | Ramlan Api | Ramlan ID | [Link](https://api-ramlan.herokuapp.com) | `Aktif` | API collection | `APIKEY` |
 | Hardianto | Hardianto | [Link](https://hardianto.xyz) | `Aktif` | API collection | `APIKEY` |
