@@ -59,12 +59,14 @@ Daftar API untuk kebutuhan Whatsapp bot
 | AquaBot API | [Sanuwa](https://github.com/sanuwaofficial) | [Link](https://api-aquabot.herokuapp.com/) | `Aktif` | API Collection | `APIKEY` |
 | violetics API | FazOne, Dehante,Zyy | [Link](https://violetics.pw) | `Aktif` | API Collection | `APIKEY` |
 | Yourclowns API | Reysekha | [Link](https://yourclown.eu.org) | `Aktif` | API Collection | `APIKEY` |
-| Fxacb API | Fxacb Team | [Link](https://www.fxacb-api.my.id) | `Aktif` | API Collection | `APIKEY` |
+| Lann API | Lann | [Link](https://api.lannn.me) | `Aktif` | API Collection | `APIKEY` |
 | Fatih Arridho API | Fatih | [Link](https://fatiharridho.herokuapp.com) | `Aktif` | API Collection | `TIDAK` |
 | JUSTNPC API | Ditzzy | [Link](https://api.justnpc.ml) | `Aktif` | API Collection | `YA` |
 | Erza API | erza | [Link](https://erzaa.site) | `Tidak` | API Collection | `YA` |
 | Rullz API | Rull | [link](https://apiruulzz.my.id) | `Aktif` | API Collection | `YA` |
 | API KYOUKA | FAJAR TKJ | [link](https://dash.api-kyouka.my.id) | `Aktif` | API Collection | `YA` |
+| ZeroOne API | [Bintang1302](https://github.com/Bintang1302) | [Link](https://zerooneapi.eu.org) | `Aktif` | API Collection | `YA` |
+| Noid API | [xgorn](https://github.com/X-Gorn) | [Link](https://api.xgorn.tech) | `Aktif` | API Collection | `APIKEY` |
 
 
 ## :fire: Tambahan
