@@ -62,7 +62,7 @@ Daftar API untuk kebutuhan Whatsapp bot
 | Fxacb API | Fxacb Team | [Link](https://www.fxacb-api.my.id) | `Aktif` | API Collection | `APIKEY` |
 | Fatih Arridho API | Fatih | [Link](https://fatiharridho.herokuapp.com) | `Aktif` | API Collection | `TIDAK` |
 | JUSTNPC API | Ditzzy | [Link](https://api.justnpc.ml) | `Aktif` | API Collection | `YA` |
-| Erza API | erza | [Link](https://erzaa.site) | `Aktif` | API Collection | `YA` |
+| Erza API | erza | [Link](https://erzaa.site) | `Tidak` | API Collection | `YA` |
 | Rullz API | Rull | [link](https://apiruulzz.my.id) | `Aktif` | API Collection | `YA` |
 | API KYOUKA | FAJAR TKJ | [link](https://dash.api-kyouka.my.id) | `Aktif` | API Collection | `YA` |
 
