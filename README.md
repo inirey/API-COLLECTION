@@ -65,6 +65,7 @@ Daftar API untuk kebutuhan Whatsapp bot
 | Erza API | erza | [Link](https://erzaa.site) | `Aktif` | API Collection | `YA` |
 | Rullz API | Rull | [link](https://apiruulzz.my.id) | `Aktif` | API Collection | `YA` |
 | ZeroOne API | [Bintang1302](https://github.com/Bintang1302) | [Link](https://zerooneapi.eu.org) | `Aktif` | API Collection | `YA` |
+| Noid API | [xgorn](https://github.com/X-Gorn) | [Link](https://api.xgorn.tech) | `Aktif` | API Collection | `APIKEY` |
 
 
 ## :fire: Tambahan
