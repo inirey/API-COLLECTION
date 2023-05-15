@@ -8,10 +8,11 @@ Daftar API untuk kebutuhan Whatsapp bot
 
 | Nama API        | Developer | URL | Status  | Deskripsi | Auth |
 | --------------- |:---------:|:---:|:-------:|:----------|:------:|
-| Api Rull | Rull | [link](https://apiruulzz.my.id) | `Aktif` | API collection. | `APIKEY` |
+| Dani API | [Dani Dev. (Full Stack)](https://wa.me/6289512545999) | [link](https://api.danicoding.my.id) | `Aktif` | Free REST API unlimited | `Yes`
+| API Rull | Rull | [link](https://apiruulzz.my.id) | `Aktif` | API collection. | `APIKEY` |
 | Xteam | XTEAM | [Link](https://xteam.xyz) | `Aktif` | API collection. | `APIKEY` |
-| Danzz Api | Danzz Coding | [Link](https://danzzapi.xyz) | `Aktif` | API collection. | `APIKEY` |
-| Api Danzz | Danzz Coding | [Link](https://api-danzz.xyz) | `Aktif` | API collection. | `APIKEY` |
+| Danzz API | Dani Coding | [Link](https://danzzapi.xyz) | `Aktif` | API collection. | `APIKEY` |
+| API Danzz | Dani Coding | [Link](https://api-danzz.xyz) | `Aktif` | API collection. | `APIKEY` |
 | Antei codes| Antei codes Team | [Link](https://antei.codes/) | `Aktif` | API collection. | `APIKEY` |
 | Vhtear | veza | [Link](https://vhtear.com) | `Aktif` | API collection | `APIKEY` |
 | Caliph API | [CaliphDev](https://github.com/caliphdev) | [Link](https://api.caliph.biz.id) | `Aktif` | API collection | `APIKEY` |
