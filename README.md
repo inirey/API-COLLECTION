@@ -51,7 +51,7 @@ Daftar API untuk kebutuhan Whatsapp bot
 | Daphuy Api | dappa | [Link](https://dapuhy.xyz/) | `Aktif` | API collection | `APIKEY` |
 | Jojo Api | jojo | [Link](https://docs-jojo.herokuapp.com) | `Aktif` | API collection | `TIDAK` |
 | Zacros Api | Zacros Team | [Link](https://api.zacros.my.id/) | `Aktif` | API collection | `TIDAK` |
-| Cakrayp Api | [Cakra YP](https://github.com/cakrayp) | [Link](https://cakrayp.herokuapp.com) | `Aktif` | API collection | `APIKEY` |
+| Cakrayp Api | [Cakra YP](https://github.com/cakrayp) | [Link](https://cloudsmart.my.id) | `Aktif` | API collection | `APIKEY` |
 | Restu Api | [MuhammadRestu999](https://github.com/MuhammadRestu999) | [Link](https://restu-restapi.herokuapp.com) | `Aktif` | RestApi full json | Tidak |
 | Wann ofc | wannofc | [Link](https://api-invibot.herokuapp.com) | `Aktif` | API collection | `APIKEY` |
 | TOXIC DEVIL API | [TOXIC-DEVIL](https://github.com/TOXIC-DEVIL) | [Link](https://api-toxic-devil-production.up.railway.app) | `Aktif` | TOXIC DEVIL API - Free Rest API| `TIDAK` |
