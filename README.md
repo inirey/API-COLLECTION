@@ -67,6 +67,7 @@ Daftar API untuk kebutuhan Whatsapp bot
 | API KYOUKA | FAJAR TKJ | [link](https://dash.api-kyouka.my.id) | `Aktif` | API Collection | `YA` |
 | ZeroOne API | [Bintang1302](https://github.com/Bintang1302) | [Link](https://zerooneapi.eu.org) | `Aktif` | API Collection | `YA` |
 | Noid API | [xgorn](https://github.com/X-Gorn) | [Link](https://api.xgorn.tech) | `Aktif` | API Collection | `APIKEY` |
+| Miftah API | [Miftah](https://github.com/miftah0908) | [Link](https://api-miftah.xyz) | `Aktif` | API Collection | `APIKEY` |
 
 
 ## :fire: Tambahan
