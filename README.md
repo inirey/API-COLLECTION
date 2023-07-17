@@ -8,6 +8,7 @@ Daftar API untuk kebutuhan Whatsapp bot
 
 | Nama API        | Developer | URL | Status  | Deskripsi | Auth |
 | --------------- |:---------:|:---:|:-------:|:----------|:------:|
+| XZN API | XZN | [link](https://xzn.wtf) | `Aktif` | API collection. | `APIKEY` |
 | Api Rull | Rull | [link](https://apiruulzz.my.id) | `Aktif` | API collection. | `APIKEY` |
 | Xteam | XTEAM | [Link](https://xteam.xyz) | `Aktif` | API collection. | `APIKEY` |
 | Danzz Api | Danzz Coding | [Link](https://danzzapi.xyz) | `Aktif` | API collection. | `APIKEY` |
@@ -42,7 +43,7 @@ Daftar API untuk kebutuhan Whatsapp bot
 | Erdwpe Api | Erdwpe | [Link](https://api.erdwpe.com) | `Aktif` | API collection | Tidak |
 | AdiOfficial API | M imam Adi | [Link](https://api.adiofficial.xyz) | `Aktif` | API collection. | `APIKEY` |
 | Melcanz Rest Api | [ariffb25](https://github.com/ariffb25) & [melcanz](https://github.com/melcanz) | [Link](https://melcanz.com) | `Aktif` | API collection | `APIKEY` |
-| Botstyle-api | [Benniismael](https://github.com/botstylee) | [Link](https://bsbt-api-rest.herokuapp.com/) | `Aktif` | API collection | `APIKEY` |
+| Botstyle-api | [Benniismael](https://github.com/botstylee) | [Link](rest-beni.herokuapp.com/) | `Aktif` | API collection | `TIDAK` |
 | Onichan Api | [FERDIZ-afk](https://github.com/FERDIZ-afk) | [Link](https://oni-chan.my.id/) | `Aktif` | API collection | `APIKEY` |
 | Free Rest API | [SAMPINDO](https://sampindo.id) | [Link](https://freeapi.sampindo.id/) | `Aktif` | API Collection | Tidak |
 | Kotzyy API | [Kotzyy](https://github.com/Kotzyy) | [Link](https://api.justkotz.tech) | `Aktif` | API Collection | `APIKEY` |
@@ -51,7 +52,7 @@ Daftar API untuk kebutuhan Whatsapp bot
 | Daphuy Api | dappa | [Link](https://dapuhy.xyz/) | `Aktif` | API collection | `APIKEY` |
 | Jojo Api | jojo | [Link](https://docs-jojo.herokuapp.com) | `Aktif` | API collection | `TIDAK` |
 | Zacros Api | Zacros Team | [Link](https://api.zacros.my.id/) | `Aktif` | API collection | `TIDAK` |
-| Cakrayp Api | [Cakra YP](https://github.com/cakrayp) | [Link](https://cakrayp.herokuapp.com) | `Aktif` | API collection | `APIKEY` |
+| Cakrayp Api | [Cakra YP](https://github.com/cakrayp) | [Link](https://cloudsmart.my.id) | `Aktif` | API collection | `APIKEY` |
 | Restu Api | [MuhammadRestu999](https://github.com/MuhammadRestu999) | [Link](https://restu-restapi.herokuapp.com) | `Aktif` | RestApi full json | Tidak |
 | Wann ofc | wannofc | [Link](https://api-invibot.herokuapp.com) | `Aktif` | API collection | `APIKEY` |
 | TOXIC DEVIL API | [TOXIC-DEVIL](https://github.com/TOXIC-DEVIL) | [Link](https://api-toxic-devil-production.up.railway.app) | `Aktif` | TOXIC DEVIL API - Free Rest API| `TIDAK` |
@@ -59,7 +60,7 @@ Daftar API untuk kebutuhan Whatsapp bot
 | AquaBot API | [Sanuwa](https://github.com/sanuwaofficial) | [Link](https://api-aquabot.herokuapp.com/) | `Aktif` | API Collection | `APIKEY` |
 | violetics API | FazOne, Dehante,Zyy | [Link](https://violetics.pw) | `Aktif` | API Collection | `APIKEY` |
 | Yourclowns API | Reysekha | [Link](https://yourclown.eu.org) | `Aktif` | API Collection | `APIKEY` |
-| Lann API | Lann | [Link](https://api.lannn.me) | `Aktif` | API Collection | `APIKEY` |
+| Lann API | Lann | [Link](https://api.betabotz.org) | `Aktif` | API Collection | `APIKEY` |
 | Fatih Arridho API | Fatih | [Link](https://fatiharridho.herokuapp.com) | `Aktif` | API Collection | `TIDAK` |
 | JUSTNPC API | Ditzzy | [Link](https://api.justnpc.ml) | `Aktif` | API Collection | `YA` |
 | Erza API | erza | [Link](https://erzaa.site) | `Tidak` | API Collection | `TIDAK` |
@@ -68,6 +69,7 @@ Daftar API untuk kebutuhan Whatsapp bot
 | ZeroOne API | [Bintang1302](https://github.com/Bintang1302) | [Link](https://zerooneapi.eu.org) | `Aktif` | API Collection | `YA` |
 | Noid API | [xgorn](https://github.com/X-Gorn) | [Link](https://api.xgorn.tech) | `Aktif` | API Collection | `APIKEY` |
 | MySiraj API | [Arizerr](https://github.com/Arizerr) | [Link](https://mysiraj.ddns.net/docs) | `Aktif` | Free Rest Api | `Tidak` |
+| Miftah API | [Miftah](https://github.com/miftah0908) | [Link](https://api-miftah.xyz) | `Aktif` | API Collection | `APIKEY` |
 
 
 ## :fire: Tambahan
