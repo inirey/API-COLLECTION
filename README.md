@@ -62,7 +62,7 @@ Daftar API untuk kebutuhan Whatsapp bot
 | Lann API | Lann | [Link](https://api.lannn.me) | `Aktif` | API Collection | `APIKEY` |
 | Fatih Arridho API | Fatih | [Link](https://fatiharridho.herokuapp.com) | `Aktif` | API Collection | `TIDAK` |
 | JUSTNPC API | Ditzzy | [Link](https://api.justnpc.ml) | `Aktif` | API Collection | `YA` |
-| Erza API | erza | [Link](https://erzaa.site) | `Tidak` | API Collection | `YA` |
+| Erza API | erza | [Link](https://erzaa.site) | `Tidak` | API Collection | `TIDAK` |
 | Rullz API | Rull | [link](https://apiruulzz.my.id) | `Aktif` | API Collection | `YA` |
 | API KYOUKA | FAJAR TKJ | [link](https://dash.api-kyouka.my.id) | `Aktif` | API Collection | `YA` |
 | ZeroOne API | [Bintang1302](https://github.com/Bintang1302) | [Link](https://zerooneapi.eu.org) | `Aktif` | API Collection | `YA` |
