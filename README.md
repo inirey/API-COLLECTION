@@ -63,11 +63,12 @@ Daftar API untuk kebutuhan Whatsapp bot
 | Lann API | Lann | [Link](https://api.betabotz.org) | `Aktif` | API Collection | `APIKEY` |
 | Fatih Arridho API | Fatih | [Link](https://fatiharridho.herokuapp.com) | `Aktif` | API Collection | `TIDAK` |
 | JUSTNPC API | Ditzzy | [Link](https://api.justnpc.ml) | `Aktif` | API Collection | `YA` |
-| Erza API | erza | [Link](https://erzaa.site) | `Tidak` | API Collection | `YA` |
+| Erza API | erza | [Link](https://erzaa.site) | `Tidak` | API Collection | `TIDAK` |
 | Rullz API | Rull | [link](https://apiruulzz.my.id) | `Aktif` | API Collection | `YA` |
 | API KYOUKA | FAJAR TKJ | [link](https://dash.api-kyouka.my.id) | `Aktif` | API Collection | `YA` |
 | ZeroOne API | [Bintang1302](https://github.com/Bintang1302) | [Link](https://zerooneapi.eu.org) | `Aktif` | API Collection | `YA` |
 | Noid API | [xgorn](https://github.com/X-Gorn) | [Link](https://api.xgorn.tech) | `Aktif` | API Collection | `APIKEY` |
+| MySiraj API | [Arizerr](https://github.com/Arizerr) | [Link](https://mysiraj.ddns.net/docs) | `Aktif` | Free Rest Api | `Tidak` |
 | Miftah API | [Miftah](https://github.com/miftah0908) | [Link](https://api-miftah.xyz) | `Aktif` | API Collection | `APIKEY` |
 
 
