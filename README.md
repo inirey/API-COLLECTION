@@ -61,6 +61,7 @@ Daftar API untuk kebutuhan Whatsapp bot
 | violetics API | FazOne, Dehante,Zyy | [Link](https://violetics.pw) | `Aktif` | API Collection | `APIKEY` |
 | Yourclowns API | Reysekha | [Link](https://yourclown.eu.org) | `Aktif` | API Collection | `APIKEY` |
 | Lann API | Lann | [Link](https://api.betabotz.org) | `Aktif` | API Collection | `APIKEY` |
+| Screenshot API | [Cakra YP](https://github.com/cakrayp), [Caliph](https://github.com/caliphdev)& [Davitt](http://github.com/mydapitt)| [link](https://ss.lonte.eu.org) | `Aktif` | Screenshot API | `TIDAK` |
 | Fatih Arridho API | Fatih | [Link](https://fatiharridho.herokuapp.com) | `Aktif` | API Collection | `TIDAK` |
 | JUSTNPC API | Ditzzy | [Link](https://api.justnpc.ml) | `Aktif` | API Collection | `YA` |
 | Erza API | erza | [Link](https://erzaa.site) | `Tidak` | API Collection | `TIDAK` |
