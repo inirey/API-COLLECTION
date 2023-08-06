@@ -72,6 +72,7 @@ Daftar API untuk kebutuhan Whatsapp bot
 | MySiraj API | [Arizerr](https://github.com/Arizerr) | [Link](https://mysiraj.ddns.net/docs) | `Aktif` | Free Rest Api | `Tidak` |
 | Miftah API | [Miftah](https://github.com/miftah0908) | [Link](https://api-miftah.xyz) | `Aktif` | API Collection | `APIKEY` |
 | Xyro API | [Xyro](https://github.com/xyroinee) | [Link](https://api.xyroinee.xyz) | `Aktif` | API Collection | `APIKEY` |
+| VihangaYT API | [VihangYT](https://github.com/vihangayt0) | [Link](https://vihangayt.me) | `Aktif` | API Collection | `Tidak` |
 
 
 ## :fire: Tambahan
