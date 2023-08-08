@@ -73,7 +73,7 @@ Daftar API untuk kebutuhan Whatsapp bot
 | Miftah API | [Miftah](https://github.com/miftah0908) | [Link](https://api-miftah.xyz) | `Aktif` | API Collection | `APIKEY` |
 | Xyro API | [Xyro](https://github.com/xyroinee) | [Link](https://api.xyroinee.xyz) | `Aktif` | API Collection | `APIKEY` |
 | VihangaYT API | [VihangYT](https://github.com/vihangayt0) | [Link](https://vihangayt.me) | `Aktif` | API Collection | `Tidak` |
-
+| Zaynn API | [Zaynn](https://github.com/zaynrck) | [Link](https://api.zaynn.my.id) | `Aktif` | API Collection | `APIKEY` |
 
 ## :fire: Tambahan
 
