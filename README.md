@@ -74,6 +74,7 @@ Daftar API untuk kebutuhan Whatsapp bot
 | Xyro API | [Xyro](https://github.com/xyroinee) | [Link](https://api.xyroinee.xyz) | `Aktif` | API Collection | `APIKEY` |
 | VihangaYT API | [VihangYT](https://github.com/vihangayt0) | [Link](https://vihangayt.me) | `Aktif` | API Collection | `Tidak` |
 | Zaynn API | [Zaynn](https://github.com/zaynrck) | [Link](https://api.zaynn.my.id) | `Aktif` | API Collection | `APIKEY` |
+| Nimesh Offical API | [Nimesh Official](https://github.com/nimesh-official) | [Link](https://api.nimeshofficial.xyz) | `Aktif` | API Collection | `APIKEY` |
 
 ## :fire: Tambahan
 
