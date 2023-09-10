@@ -76,7 +76,7 @@ Daftar API untuk kebutuhan Whatsapp bot
 | Zaynn API | [Zaynn](https://github.com/zaynrck) | [Link](https://api.zaynn.my.id) | `Aktif` | API Collection | `APIKEY` |
 | Zayn-C API | [NathanaeL](https://github.com/natgvlite) | [Link](https://api.zayn-c.my.id) | `Aktif` | Free Rest API | `Tidak` |
 | Nimesh Official API | [Nimesh Official](https://github.com/nimesh-official) | [Link](https://api.nimeshofficial.xyz) | `Aktif` | API Collection | `APIKEY` |
-
+| VELIXS R-API | [Ilsya](https://github.com/ilsyaa) | [Link](https://velixs.com/rapi) | `Aktif` | API Collection | `APIKEY` |
 
 ## :fire: Tambahan
 
