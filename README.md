@@ -9,6 +9,7 @@ Daftar API untuk kebutuhan Whatsapp bot
 | Nama API        | Developer | URL | Status  | Deskripsi | Auth |
 | --------------- |:---------:|:---:|:-------:|:----------|:------:|
 | XZN API | XZN | [link](https://xzn.wtf) | `Aktif` | API collection. | `APIKEY` |
+| Xcode API | Riy(https://github.com/riycoders) | [Link](https://api.xcodeteam.xyz/) | `Aktif` | API collection | `APIKEY` |
 | KYOUKA API | [KyoukaDev](https//github.com/Yuri-Neko)| [link](https://web.api-kyouka.my.id) | `Aktif` | API collection. | `APIKEY` |
 | Api Rull | Rull | [link](https://apiruulzz.my.id) | `Aktif` | API collection. | `APIKEY` |
 | Xteam | XTEAM | [Link](https://xteam.xyz) | `Aktif` | API collection. | `APIKEY` |
@@ -45,7 +46,6 @@ Daftar API untuk kebutuhan Whatsapp bot
 | AdiOfficial API | M imam Adi | [Link](https://api.adiofficial.xyz) | `Aktif` | API collection. | `APIKEY` |
 | Melcanz Rest Api | [ariffb25](https://github.com/ariffb25) & [melcanz](https://github.com/melcanz) | [Link](https://melcanz.com) | `Aktif` | API collection | `APIKEY` |
 | Botstyle-api | [Benniismael](https://github.com/botstylee) | [Link](rest-beni.herokuapp.com/) | `Aktif` | API collection | `TIDAK` |
-| Xcode API | Riy | [Link](https://api.xcodeteam.xyz/) | `Aktif` | API collection | `APIKEY` |
 | Onichan Api | [FERDIZ-afk](https://github.com/FERDIZ-afk) | [Link](https://oni-chan.my.id/) | `Aktif` | API collection | `APIKEY` |
 | Free Rest API | [SAMPINDO](https://sampindo.id) | [Link](https://freeapi.sampindo.id/) | `Aktif` | API Collection | Tidak |
 | Kotzyy API | [Kotzyy](https://github.com/Kotzyy) | [Link](https://api.justkotz.tech) | `Aktif` | API Collection | `APIKEY` |
