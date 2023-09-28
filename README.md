@@ -68,13 +68,16 @@ Daftar API untuk kebutuhan Whatsapp bot
 | Rullz API | Rull | [link](https://apiruulzz.my.id) | `Aktif` | API Collection | `YA` |
 | API KYOUKA | FAJAR TKJ | [link](https://dash.api-kyouka.my.id) | `Aktif` | API Collection | `YA` |
 | ZeroOne API | [Bintang1302](https://github.com/Bintang1302) | [Link](https://zerooneapi.eu.org) | `Aktif` | API Collection | `YA` |
-| Noid API | [xgorn](https://github.com/X-Gorn) | [Link](https://api.xgorn.tech) | `Aktif` | API Collection | `APIKEY` |
+| Noid API | [xgorn](https://github.com/X-Gorn) | [Link](https://xgorn.is-a.dev/) | `Aktif` | API Collection | `APIKEY` |
 | MySiraj API | [Arizerr](https://github.com/Arizerr) | [Link](https://mysiraj.ddns.net/docs) | `Aktif` | Free Rest Api | `Tidak` |
 | Miftah API | [Miftah](https://github.com/miftah0908) | [Link](https://api-miftah.xyz) | `Aktif` | API Collection | `APIKEY` |
 | Xyro API | [Xyro](https://github.com/xyroinee) | [Link](https://api.xyroinee.xyz) | `Aktif` | API Collection | `APIKEY` |
 | VihangaYT API | [VihangYT](https://github.com/vihangayt0) | [Link](https://vihangayt.me) | `Aktif` | API Collection | `Tidak` |
 | Zaynn API | [Zaynn](https://github.com/zaynrck) | [Link](https://api.zaynn.my.id) | `Aktif` | API Collection | `APIKEY` |
 | Nimesh Offical API | [Nimesh Official](https://github.com/nimesh-official) | [Link](https://api.nimeshofficial.xyz) | `Aktif` | API Collection | `APIKEY` |
+| Zayn-C API | [NathanaeL](https://github.com/natgvlite) | [Link](https://api.zayn-c.my.id) | `Aktif` | Free Rest API | `Tidak` |
+| Nimesh Official API | [Nimesh Official](https://github.com/nimesh-official) | [Link](https://api.nimeshofficial.xyz) | `Aktif` | API Collection | `APIKEY` |
+| VELIXS R-API | [Ilsya](https://github.com/ilsyaa) | [Link](https://velixs.com/rapi) | `Aktif` | API Collection | `APIKEY` |
 
 ## :fire: Tambahan
 
