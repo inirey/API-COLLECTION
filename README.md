@@ -8,7 +8,7 @@ Daftar API untuk kebutuhan Whatsapp bot
 
 | Nama API        | Developer | URL | Status  | Deskripsi | Auth |
 | --------------- |:---------:|:---:|:-------:|:----------|:------:|
-| Api's Skizo API | Skizo Team | [link](https://skizo.tech) | `Aktif` | API collection. | `APIKEY` |
+| Api's Skizo | Skizo Team | [link](https://skizo.tech) | `Aktif` | API collection. | `APIKEY` |
 | Api Rull | Rull | [link](https://apiruulzz.my.id) | `Aktif` | API collection. | `APIKEY` |
 | Xteam | XTEAM | [Link](https://xteam.xyz) | `Aktif` | API collection. | `APIKEY` |
 | Danzz Api | Danzz Coding | [Link](https://danzzapi.xyz) | `Aktif` | API collection. | `APIKEY` |
