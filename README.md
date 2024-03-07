@@ -14,7 +14,7 @@ Daftar API untuk kebutuhan Whatsapp bot
 | ZEXXA DEV | [ZexxaDevID](https://github.com/ZexxaDevID) | [link](http://myfirstexpress-1.xvdxsix.repl.co/) | `Aktif` | API collection. | TIDAK |
 | Kimzz API | Kimzz store | [link](https://api.kimzzoffc.me) | `Aktif` | API collection. | `APIKEY` |
 | Xcode API | [Riy](https://github.com/riycoders) | [Link](https://api.xcodeteam.xyz/) | `Aktif` | API collection. | `APIKEY` |
-| KYOUKA API | [KyoukaDev](https//github.com/Yuri-Neko)| [link](https://web.api-kyouka.my.id) | `Aktif` | API collection. | `APIKEY` |
+| KYOUKA API | KyoukaDev | [link](https//github.com/Yuri-Neko)| [link](https://api.nekostore.my.id) | `Aktif` | API collection. | `APIKEY` |
 | Api Rull | Rull | [link](https://apiruulzz.my.id) | `Aktif` | API collection. | `APIKEY` |
 | Xteam | XTEAM | [Link](https://xteam.xyz) | `Aktif` | API collection. | `APIKEY` |
 | Danzz Api | Danzz Coding | [Link](https://danzzapi.xyz) | `Aktif` | API collection. | `APIKEY` |
