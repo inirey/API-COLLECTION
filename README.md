@@ -8,6 +8,7 @@ Daftar API untuk kebutuhan Whatsapp bot
 
 | Nama API        | Developer | URL | Status  | Deskripsi | Auth |
 | --------------- |:---------:|:---:|:-------:|:----------|:------:|
+| TOXIC DEVIL API | [TOXIC-DEVIL](https://github.com/TOXIC-DEVIL) | [Link](https://toxicdevilapi.vercel.app/) | `Aktif` | TOXIC DEVIL API - Free Rest API | `TIDAK` |
 | XZN API | XZN | [link](https://xzn.wtf) | `Aktif` | API collection. | `APIKEY` |
 | ZEXXA API | [Kira-Master](https://github.com/Kira-Master) | [link](https://web-kira-master.cloud.okteto.net/) | `Aktif` | API collection. | `APIKEY` |
 | ZEXXA DEV | [ZexxaDevID](https://github.com/ZexxaDevID) | [link](http://myfirstexpress-1.xvdxsix.repl.co/) | `Aktif` | API collection. | TIDAK |
@@ -60,7 +61,6 @@ Daftar API untuk kebutuhan Whatsapp bot
 | Cakrayp Api | [Cakra YP](https://github.com/cakrayp) | [Link](https://cloudsmart.my.id) | `Aktif` | API collection | `APIKEY` |
 | Restu Api | [MuhammadRestu999](https://github.com/MuhammadRestu999) | [Link](https://restu-restapi.herokuapp.com) | `Aktif` | RestApi full json | Tidak |
 | Wann ofc | wannofc | [Link](https://api-invibot.herokuapp.com) | `Aktif` | API collection | `APIKEY` |
-| TOXIC DEVIL API | [TOXIC-DEVIL](https://github.com/TOXIC-DEVIL) | [Link](https://api-toxic-devil-production.up.railway.app) | `Aktif` | TOXIC DEVIL API - Free Rest API| `TIDAK` |
 | YUU API | sidaniid | [Link](https://yuuapi.herokuapp.com) | `Aktif` | API Collection| `APIKEY` |
 | AquaBot API | [Sanuwa](https://github.com/sanuwaofficial) | [Link](https://api-aquabot.herokuapp.com/) | `Aktif` | API Collection | `APIKEY` |
 | violetics API | FazOne, Dehante,Zyy | [Link](https://violetics.pw) | `Aktif` | API Collection | `APIKEY` |
