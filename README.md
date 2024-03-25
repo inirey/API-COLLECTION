@@ -84,6 +84,7 @@ Daftar API untuk kebutuhan Whatsapp bot
 | VELIXS R-API | [Ilsya](https://github.com/ilsyaa) | [Link](https://velixs.com/rapi) | `Aktif` | API Collection | `APIKEY` |
 | ZonerAPIs | [TegarPriyadi](https://github.com/TegarPriyadi) | [Link](https://api.zonerweb.biz.id/) | `Aktif` | API Collection | `APIKEY` |
 | VihangaYT API | [VihangYT](https://github.com/vihangayt0) | [Link](https://api.vihangayt.asia) | `Aktif` | API Collection | `Tidak` |
+| Velox API | [IkyyOFC](https://wa.me/6282281657946) | [Link](https://api.ikyy.my.id) | `Aktif` | API Collection | `Tidak` |
 
 ## :fire: Tambahan
 
