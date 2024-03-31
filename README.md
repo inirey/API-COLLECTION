@@ -74,7 +74,7 @@ Daftar API untuk kebutuhan Whatsapp bot
 | ZeroOne API | [Bintang1302](https://github.com/Bintang1302) | [Link](https://zerooneapi.eu.org) | `Aktif` | API Collection | `YA` |
 | Noid API | [xgorn](https://github.com/X-Gorn) | [Link](https://xgorn.is-a.dev/) | `Aktif` | API Collection | `APIKEY` |
 | MySiraj API | [Arizerr](https://github.com/Arizerr) | [Link](https://mysiraj.ddns.net/docs) | `Aktif` | Free Rest Api | `Tidak` |
-| Miftah API | [Miftah](https://github.com/miftah0908) | [Link](https://api-miftah.xyz) | `Aktif` | API Collection | `APIKEY` |
+| Miftah API | [Miftah](https://github.com/miftah0908) | [Link](https://api.miftah.xyz) | `Aktif` | API Collection | `APIKEY` |
 | Xyro API | [Xyro](https://github.com/xyroinee) | [Link](https://api.xyroinee.xyz) | `Aktif` | API Collection | `APIKEY` |
 | VihangaYT API | [VihangYT](https://github.com/vihangayt0) | [Link](https://vihangayt.me) | `Aktif` | API Collection | `Tidak` |
 | Zaynn API | [Zaynn](https://github.com/zaynrck) | [Link](https://api.zaynn.my.id) | `Aktif` | API Collection | `APIKEY` |
@@ -84,6 +84,8 @@ Daftar API untuk kebutuhan Whatsapp bot
 | VELIXS R-API | [Ilsya](https://github.com/ilsyaa) | [Link](https://velixs.com/rapi) | `Aktif` | API Collection | `APIKEY` |
 | ZonerAPIs | [TegarPriyadi](https://github.com/TegarPriyadi) | [Link](https://api.zonerweb.biz.id/) | `Aktif` | API Collection | `APIKEY` |
 | VihangaYT API | [VihangYT](https://github.com/vihangayt0) | [Link](https://api.vihangayt.asia) | `Aktif` | API Collection | `Tidak` |
+| Miftah APIs | [Miftah](https://github.com/miftahganzz) | [Link](https://api.miftahganzz.my.id) | `Aktif` | API Collection | `APIKEY` |
+| ITzpire API | [Miftah](https://github.com/miftahganzz) | [Link](https://itzpire.site) | `Aktif` | API Collection | `Tidak` |
 
 ## :fire: Tambahan
 
