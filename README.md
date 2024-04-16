@@ -86,6 +86,7 @@ Daftar API untuk kebutuhan Whatsapp bot
 | VihangaYT API | [VihangYT](https://github.com/vihangayt0) | [Link](https://api.vihangayt.asia) | `Aktif` | API Collection | `Tidak` |
 | Miftah APIs | [Miftah](https://github.com/miftahganzz) | [Link](https://api.miftahganzz.my.id) | `Aktif` | API Collection | `APIKEY` |
 | ITzpire API | [Miftah](https://github.com/miftahganzz) | [Link](https://itzpire.site) | `Aktif` | API Collection | `Tidak` |
+| onesytex Api | [mr.one](https://github.com/onepunya) | [Link](https://onesytex.my.id) | `Aktif` | API Collection | `Tidak` |
 
 ## :fire: Tambahan
 
