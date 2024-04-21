@@ -87,6 +87,7 @@ Daftar API untuk kebutuhan Whatsapp bot
 | Miftah APIs | [Miftah](https://github.com/miftahganzz) | [Link](https://api.miftahganzz.my.id) | `Aktif` | API Collection | `APIKEY` |
 | ITzpire API | [Miftah](https://github.com/miftahganzz) | [Link](https://itzpire.site) | `Aktif` | API Collection | `Tidak` |
 | onesytex Api | [mr.one](https://github.com/onepunya) | [Link](https://onesytex.my.id) | `Aktif` | API Collection | `Tidak` |
+| MAHER API | [Maher Zubair](https://github.com/Maher-Zubair) | [Link](https://api.maher-zubair.tech) | `Aktif` | API Collection | `Tidak` |
 
 ## :fire: Tambahan
 
