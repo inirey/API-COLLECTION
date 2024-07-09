@@ -91,8 +91,11 @@ Daftar API untuk kebutuhan Whatsapp bot
 | MAHER API | [Maher Zubair](https://github.com/Maher-Zubair) | [Link](https://api.maher-zubair.tech) | `Aktif` | API Collection | `Tidak` |
 | SAMIR API | [SamirApi](https://github.com/samirxpikachuio) | [Link](https://samirxpikachu.onrender.com) | `Aktif` | API Collection | `Tidak` |
 | Mininxd API | [Mininxd](https://github.com/mininxd) | [Link](https://api.mininxd.my.id/) | `Aktif` | API Collection | `Tidak` |
-| `Aktif` | API Collection | `Tidak` |
 | AgatZ API | [AgatZ](https://github.com/agatdwi) | [Link](https://api.agatz.xyz) | `Aktif` | API Collection | `Tidak` |
+| `Aktif` | API Collection | `Tidak` |
+
+
+
 ## :fire: Tambahan
 
 Jika ingin menambahkan List API nya langsung aja pull request Arigatou :)
