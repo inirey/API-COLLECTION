@@ -89,6 +89,7 @@ Daftar API untuk kebutuhan Whatsapp bot
 | onesytex Api | [mr.one](https://github.com/onepunya) | [Link](https://onesytex.my.id) | `Aktif` | API Collection | `Tidak` |
 | MAHER API | [Maher Zubair](https://github.com/Maher-Zubair) | [Link](https://api.maher-zubair.tech) | `Aktif` | API Collection | `Tidak` |
 | SAMIR API | [SamirApi](https://github.com/samirxpikachuio) | [Link](https://apis-samir.onrender.com) | `Aktif` | API Collection | `Tidak` |
+| Termai API | [TermaiApi](https://github.com/Rifza123) | [Link](https://xterm.tech) | `Aktif` | API Collection | `KEY` |
 
 ## :fire: Tambahan
 
