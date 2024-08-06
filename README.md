@@ -93,7 +93,7 @@ Daftar API untuk kebutuhan Whatsapp bot
 | Mininxd API | [Mininxd](https://github.com/mininxd) | [Link](https://api.mininxd.my.id/) | `Aktif` | API Collection | `Tidak` |
 | AgatZ API | [AgatZ](https://github.com/agatdwi) | [Link](https://api.agatz.xyz) | `Aktif` | API Collection | `Tidak` |
 | `Aktif` | API Collection | `Tidak` |
-
+| Chiwa RestAPI | [@akane_chiwa](https://github.com/aiprojectchiwa) | [Link](https://api.chiwa.my.id) | `Aktif` | 100% Free and PowerFull RestFullAPI | `TIDAK` |
 
 
 ## :fire: Tambahan
