@@ -94,7 +94,7 @@ Daftar API untuk kebutuhan Whatsapp bot
 | AgatZ API | [AgatZ](https://github.com/agatdwi) | [Link](https://api.agatz.xyz) | `Aktif` | API Collection | `Tidak` |
 | Termai API | [TermaiApi](https://github.com/Rifza123) | [Link](https://xterm.tech) | `Aktif` | API Collection | `KEY` |
 | `Aktif` | API Collection | `Tidak` |
-
+| Chiwa RestAPI | [@akane_chiwa](https://github.com/aiprojectchiwa) | [Link](https://api.chiwa.my.id) | `Aktif` | 100% Free and PowerFull RestFullAPI | `TIDAK` |
 
 
 ## :fire: Tambahan
