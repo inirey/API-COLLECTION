@@ -83,7 +83,7 @@ Daftar API untuk kebutuhan Whatsapp bot
 | Zayn-C API | [NathanaeL](https://github.com/natgvlite) | [Link](https://api.zayn-c.my.id) | `Aktif` | Free Rest API | `Tidak` |
 | Nimesh Official API | [Nimesh Official](https://github.com/nimesh-official) | [Link](https://api.nimeshofficial.xyz) | `Aktif` | API Collection | `APIKEY` |
 | VELIXS R-API | [Ilsya](https://github.com/ilsyaa) | [Link](https://velixs.com/rapi) | `Aktif` | API Collection | `APIKEY` |
-| ZonerAPIs | [TegarPriyadi](https://github.com/TegarPriyadi) | [Link](https://api.zonerweb.biz.id/) | `Aktif` | API Collection | `APIKEY` |
+| ZORNER | [ZORNER](https://github.com/TegarPriyadi) | [Link](https://zorner.men/) | `Aktif` | API Collection | `APIKEY` |
 | VihangaYT API | [VihangYT](https://github.com/vihangayt0) | [Link](https://api.vihangayt.asia) | `Aktif` | API Collection | `Tidak` |
 | Miftah APIs | [Miftah](https://github.com/miftahganzz) | [Link](https://api.miftahganzz.my.id) | `Aktif` | API Collection | `APIKEY` |
 | ITzpire API | [Miftah](https://github.com/miftahganzz) | [Link](https://itzpire.site) | `Aktif` | API Collection | `Tidak` |
