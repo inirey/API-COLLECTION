@@ -88,13 +88,13 @@ Daftar API untuk kebutuhan Whatsapp bot
 | Miftah APIs | [Miftah](https://github.com/miftahganzz) | [Link](https://api.miftahganzz.my.id) | `Aktif` | API Collection | `APIKEY` |
 | ITzpire API | [Miftah](https://github.com/miftahganzz) | [Link](https://itzpire.site) | `Aktif` | API Collection | `Tidak` |
 | onesytex Api | [mr.one](https://github.com/onepunya) | [Link](https://onesytex.my.id) | `Aktif` | API Collection | `Tidak` |
-| MAHER API | [Maher Zubair](https://github.com/Maher-Zubair) | [Link](https://api.maher-zubair.tech) | `Aktif` | API Collection | `Tidak` |
 | SAMIR API | [SamirApi](https://github.com/samirxpikachuio) | [Link](https://samirxpikachu.onrender.com) | `Aktif` | API Collection | `Tidak` |
 | Mininxd API | [Mininxd](https://github.com/mininxd) | [Link](https://api.mininxd.my.id/) | `Aktif` | API Collection | `Tidak` |
 | AgatZ API | [AgatZ](https://github.com/agatdwi) | [Link](https://api.agatz.xyz) | `Aktif` | API Collection | `Tidak` |
 | Termai API | [TermaiApi](https://github.com/Rifza123) | [Link](https://xterm.tech) | `Aktif` | API Collection | `KEY` |
 | `Aktif` | API Collection | `Tidak` |
 | Chiwa RestAPI | [@akane_chiwa](https://github.com/aiprojectchiwa) | [Link](https://api.chiwa.my.id) | `Aktif` | 100% Free and PowerFull RestFullAPI | `TIDAK` |
+| NexOracle Rest APIs | [Maher Zubair](https://github.com/Maher-Zubair) | [Link](https://api.nexoracle.com) | `Aktif` | 600+ PowerFull and Cheap APIs | `APIKEY` |
 
 
 ## :fire: Tambahan
