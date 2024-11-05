@@ -95,6 +95,7 @@ Daftar API untuk kebutuhan Whatsapp bot
 | Termai API | [TermaiApi](https://github.com/Rifza123) | [Link](https://xterm.tech) | `Aktif` | API Collection | `KEY` |
 | `Aktif` | API Collection | `Tidak` |
 | Chiwa RestAPI | [@akane_chiwa](https://github.com/aiprojectchiwa) | [Link](https://api.chiwa.my.id) | `Aktif` | 100% Free and PowerFull RestFullAPI | `TIDAK` |
+| Hitori API | [Hitori](https://github.com/bangdanzz) | [Link](https://my.hitori.pw) | `Aktif` | API Collection | `APIKEY` |
 
 
 ## :fire: Tambahan
