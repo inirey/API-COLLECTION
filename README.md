@@ -8,6 +8,7 @@ Daftar API untuk kebutuhan Whatsapp bot
 
 | Nama API        | Developer | URL | Status  | Deskripsi | Auth |
 | --------------- |:---------:|:---:|:-------:|:----------|:------:|
+| NIRKYY API | Pur | [link](https://nirkyy.koyeb.app) | `Aktif` | AI logic & Collection API | `tidak` |
 | TOXIC DEVIL API | [TOXIC-DEVIL](https://github.com/TOXIC-DEVIL) | [Link](https://toxicdevilapi.vercel.app/) | `Aktif` | TOXIC DEVIL API - Free Rest API | `TIDAK` |
 | XZN API | XZN | [link](https://xzn.wtf) | `Aktif` | API collection. | `APIKEY` |
 | ZEXXA API | [Kira-Master](https://github.com/Kira-Master) | [link](https://web-kira-master.cloud.okteto.net/) | `Aktif` | API collection. | `APIKEY` |
