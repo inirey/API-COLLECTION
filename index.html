@@ -1,45 +1,349 @@
+
 <!DOCTYPE html>
-<html lang="id">
+<html lang="en">
 <head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>Daftar API Lokal Indonesia</title>
-  <script src="https://cdn.tailwindcss.com"></script>
-  <style>
-    body.dark {
-      background-color: #000;
-      color: #fff;
-    }
-    .dark .card {
-      background-color: #1a1a1a;
-    }
-  </style>
+    <meta charset="UTF-8">
+    <title>API List</title>
+    <style>
+        body {
+            background-color: #121212;
+            color: #ffffff;
+            font-family: Arial, sans-serif;
+        }
+        table {
+            width: 100%;
+            border-collapse: collapse;
+        }
+        th, td {
+            border: 1px solid #444;
+            padding: 8px;
+            text-align: left;
+        }
+        th {
+            background-color: #1f1f1f;
+            color: #00FF00;
+        }
+        tr:nth-child(even) {
+            background-color: #1e1e1e;
+        }
+        tr:hover {
+            background-color: #333;
+        }
+    </style>
 </head>
-<body class="bg-white text-black transition-colors duration-300">
-  <div class="container mx-auto p-4">
-    <div class="flex justify-between items-center mb-4">
-      <h1 class="text-2xl font-bold">Daftar API Lokal Indonesia</h1>
-      <button id="toggleDark" class="bg-gray-800 text-white px-4 py-2 rounded">Toggle Mode Gelap</button>
-    </div>
-    <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
-      <!-- Contoh kartu API -->
-      <div class="card p-4 rounded shadow">
-        <h2 class="text-xl font-semibold">Nama API</h2>
-        <p class="text-sm">Deskripsi singkat tentang API.</p>
-        <a href="#" class="text-blue-500 hover:underline">Link API</a>
-      </div>
-      <!-- Tambahkan lebih banyak kartu sesuai kebutuhan -->
-    </div>
-    <footer class="mt-8 text-center text-sm">
-      © 2019 Made With Rey ❤️
-    </footer>
-  </div>
-  <script>
-    const toggle = document.getElementById('toggleDark');
-    const body = document.body;
-    toggle.addEventListener('click', () => {
-      body.classList.toggle('dark');
-    });
-  </script>
+<body>
+    <h1>Daftar API Publik Aktif</h1>
+    <table>
+        <thead>
+            <tr>
+                <th>#</th>
+                <th>Nama API</th>
+                <th>Developer</th>
+                <th>URL</th>
+                <th>Status</th>
+                <th>Deskripsi</th>
+                <th>Auth</th>
+            </tr>
+        </thead>
+        <tbody>
+            
+    <tr>
+        <td>1</td>
+        <td style="color:#00FF00;font-weight:bold;">TOXIC DEVIL API</td>
+        <td style="color:#00FF00;font-weight:bold;">TOXIC-DEVIL</td>
+        <td><a href="https://toxicdevilapi.vercel.app/" style="color:#00FF00;font-weight:bold;" target="_blank">https://toxicdevilapi.vercel.app/</a></td>
+        <td style="color:#00FF00;font-weight:bold;">Aktif</td>
+        <td>Free Rest API</td>
+        <td style="color:#00FF00;font-weight:bold;">Tidak</td>
+    </tr>
+    
+
+    <tr>
+        <td>2</td>
+        <td style="color:#00FF00;font-weight:bold;">NirKYY API</td>
+        <td style="color:#00FF00;font-weight:bold;">PurPur</td>
+        <td><a href="https://toxicdevilapi.vercel.app/" style="color:#00FF00;font-weight:bold;" target="_blank">https://toxicdevilapi.vercel.app/</a></td>
+        <td style="color:#00FF00;font-weight:bold;">Aktif</td>
+        <td>Nirkyy Logic AI & Collection</td>
+        <td style="color:#00FF00;font-weight:bold;">Tidak</td>
+    </tr>
+    
+
+    <tr>
+        <td>3</td>
+        <td style="color:#00FF00;font-weight:bold;">XZN API</td>
+        <td style="color:#00FF00;font-weight:bold;">XZN</td>
+        <td><a href="https://xzn.wtf" style="color:#00FF00;font-weight:bold;" target="_blank">https://xzn.wtf</a></td>
+        <td style="color:#00FF00;font-weight:bold;">Aktif</td>
+        <td>API collection</td>
+        <td style="color:#00FF00;font-weight:bold;">APIKEY</td>
+    </tr>
+    
+
+    <tr>
+        <td>4</td>
+        <td style="color:#00FF00;font-weight:bold;">Only API</td>
+        <td style="color:#00FF00;font-weight:bold;">OnlyDev</td>
+        <td><a href="https://api.onlydev.tech" style="color:#00FF00;font-weight:bold;" target="_blank">https://api.onlydev.tech</a></td>
+        <td style="color:#00FF00;font-weight:bold;">Aktif</td>
+        <td>Public APIKEY</td>
+        <td style="color:#00FF00;font-weight:bold;">APIKEY</td>
+    </tr>
+    
+
+    <tr>
+        <td>5</td>
+        <td style="color:#00FF00;font-weight:bold;">ALPH4 MD</td>
+        <td style="color:#00FF00;font-weight:bold;">ZeeoneOfc</td>
+        <td><a href="https://alph4-md.my.id" style="color:#00FF00;font-weight:bold;" target="_blank">https://alph4-md.my.id</a></td>
+        <td style="color:#00FF00;font-weight:bold;">Aktif</td>
+        <td>Free APIKEY</td>
+        <td style="color:#00FF00;font-weight:bold;">APIKEY</td>
+    </tr>
+    
+
+    <tr>
+        <td>6</td>
+        <td style="color:#00FF00;font-weight:bold;">CALIPH API</td>
+        <td style="color:#00FF00;font-weight:bold;">Caliph71</td>
+        <td><a href="https://caliphapi.xyz" style="color:#00FF00;font-weight:bold;" target="_blank">https://caliphapi.xyz</a></td>
+        <td style="color:#00FF00;font-weight:bold;">Aktif</td>
+        <td>Many Features</td>
+        <td style="color:#00FF00;font-weight:bold;">APIKEY</td>
+    </tr>
+    
+
+    <tr>
+        <td>7</td>
+        <td style="color:#00FF00;font-weight:bold;">Eka API</td>
+        <td style="color:#00FF00;font-weight:bold;">Eka</td>
+        <td><a href="https://ekha-api.herokuapp.com" style="color:#00FF00;font-weight:bold;" target="_blank">https://ekha-api.herokuapp.com</a></td>
+        <td style="color:#00FF00;font-weight:bold;">Aktif</td>
+        <td>Eka Rest API</td>
+        <td style="color:#00FF00;font-weight:bold;">APIKEY</td>
+    </tr>
+    
+
+    <tr>
+        <td>8</td>
+        <td style="color:#00FF00;font-weight:bold;">ERLAN API</td>
+        <td style="color:#00FF00;font-weight:bold;">ERLAN</td>
+        <td><a href="https://api.erlan.my.id" style="color:#00FF00;font-weight:bold;" target="_blank">https://api.erlan.my.id</a></td>
+        <td style="color:#00FF00;font-weight:bold;">Aktif</td>
+        <td>Erlan REST</td>
+        <td style="color:#00FF00;font-weight:bold;">APIKEY</td>
+    </tr>
+    
+
+    <tr>
+        <td>9</td>
+        <td style="color:#00FF00;font-weight:bold;">FERN API</td>
+        <td style="color:#00FF00;font-weight:bold;">FERN</td>
+        <td><a href="https://fernn-api-v2.vercel.app" style="color:#00FF00;font-weight:bold;" target="_blank">https://fernn-api-v2.vercel.app</a></td>
+        <td style="color:#00FF00;font-weight:bold;">Aktif</td>
+        <td>Fern Rest API</td>
+        <td style="color:#00FF00;font-weight:bold;">Tidak</td>
+    </tr>
+    
+
+    <tr>
+        <td>10</td>
+        <td style="color:#00FF00;font-weight:bold;">Fxc7 API</td>
+        <td style="color:#00FF00;font-weight:bold;">Fxc7</td>
+        <td><a href="https://fxc7-api.xyz" style="color:#00FF00;font-weight:bold;" target="_blank">https://fxc7-api.xyz</a></td>
+        <td style="color:#00FF00;font-weight:bold;">Aktif</td>
+        <td>Public APIKEY</td>
+        <td style="color:#00FF00;font-weight:bold;">APIKEY</td>
+    </tr>
+    
+
+    <tr>
+        <td>11</td>
+        <td style="color:#00FF00;font-weight:bold;">Hardianto API</td>
+        <td style="color:#00FF00;font-weight:bold;">Hardianto</td>
+        <td><a href="https://hardianto.xyz" style="color:#00FF00;font-weight:bold;" target="_blank">https://hardianto.xyz</a></td>
+        <td style="color:#00FF00;font-weight:bold;">Aktif</td>
+        <td>Public APIKEY</td>
+        <td style="color:#00FF00;font-weight:bold;">APIKEY</td>
+    </tr>
+    
+
+    <tr>
+        <td>12</td>
+        <td style="color:#00FF00;font-weight:bold;">Hadi API</td>
+        <td style="color:#00FF00;font-weight:bold;">Hadi</td>
+        <td><a href="https://hadi-api.herokuapp.com" style="color:#00FF00;font-weight:bold;" target="_blank">https://hadi-api.herokuapp.com</a></td>
+        <td style="color:#00FF00;font-weight:bold;">Aktif</td>
+        <td>Rest API</td>
+        <td style="color:#00FF00;font-weight:bold;">Tidak</td>
+    </tr>
+    
+
+    <tr>
+        <td>13</td>
+        <td style="color:#00FF00;font-weight:bold;">Latip API</td>
+        <td style="color:#00FF00;font-weight:bold;">Latip</td>
+        <td><a href="https://latip-rest-api.vercel.app" style="color:#00FF00;font-weight:bold;" target="_blank">https://latip-rest-api.vercel.app</a></td>
+        <td style="color:#00FF00;font-weight:bold;">Aktif</td>
+        <td>Rest API</td>
+        <td style="color:#00FF00;font-weight:bold;">Tidak</td>
+    </tr>
+    
+
+    <tr>
+        <td>14</td>
+        <td style="color:#00FF00;font-weight:bold;">Lolhuman API</td>
+        <td style="color:#00FF00;font-weight:bold;">Lolhuman</td>
+        <td><a href="https://api.lolhuman.xyz" style="color:#00FF00;font-weight:bold;" target="_blank">https://api.lolhuman.xyz</a></td>
+        <td style="color:#00FF00;font-weight:bold;">Aktif</td>
+        <td>Premium & Free</td>
+        <td style="color:#00FF00;font-weight:bold;">APIKEY</td>
+    </tr>
+    
+
+    <tr>
+        <td>15</td>
+        <td style="color:#00FF00;font-weight:bold;">Riy API</td>
+        <td style="color:#00FF00;font-weight:bold;">RIY</td>
+        <td><a href="https://riy-api.herokuapp.com" style="color:#00FF00;font-weight:bold;" target="_blank">https://riy-api.herokuapp.com</a></td>
+        <td style="color:#00FF00;font-weight:bold;">Aktif</td>
+        <td>Riy REST</td>
+        <td style="color:#00FF00;font-weight:bold;">APIKEY</td>
+    </tr>
+    
+
+    <tr>
+        <td>16</td>
+        <td style="color:#00FF00;font-weight:bold;">SKIZONE API</td>
+        <td style="color:#00FF00;font-weight:bold;">Skizo</td>
+        <td><a href="https://skizo.tech/api" style="color:#00FF00;font-weight:bold;" target="_blank">https://skizo.tech/api</a></td>
+        <td style="color:#00FF00;font-weight:bold;">Aktif</td>
+        <td>SKIZONE REST</td>
+        <td style="color:#00FF00;font-weight:bold;">APIKEY</td>
+    </tr>
+    
+
+    <tr>
+        <td>17</td>
+        <td style="color:#00FF00;font-weight:bold;">Reyzin API</td>
+        <td style="color:#00FF00;font-weight:bold;">Reyzin</td>
+        <td><a href="https://reyzin.my.id" style="color:#00FF00;font-weight:bold;" target="_blank">https://reyzin.my.id</a></td>
+        <td style="color:#00FF00;font-weight:bold;">Aktif</td>
+        <td>Reyzin REST</td>
+        <td style="color:#00FF00;font-weight:bold;">APIKEY</td>
+    </tr>
+    
+
+    <tr>
+        <td>18</td>
+        <td style="color:#00FF00;font-weight:bold;">Rest API BZ</td>
+        <td style="color:#00FF00;font-weight:bold;">BZ</td>
+        <td><a href="https://rest-api-bz.vercel.app" style="color:#00FF00;font-weight:bold;" target="_blank">https://rest-api-bz.vercel.app</a></td>
+        <td style="color:#00FF00;font-weight:bold;">Aktif</td>
+        <td>Public API</td>
+        <td style="color:#00FF00;font-weight:bold;">Tidak</td>
+    </tr>
+    
+
+    <tr>
+        <td>19</td>
+        <td style="color:#00FF00;font-weight:bold;">REST API</td>
+        <td style="color:#00FF00;font-weight:bold;">Unknown</td>
+        <td><a href="https://restapi-api.herokuapp.com" style="color:#00FF00;font-weight:bold;" target="_blank">https://restapi-api.herokuapp.com</a></td>
+        <td style="color:#00FF00;font-weight:bold;">Aktif</td>
+        <td>Rest API</td>
+        <td style="color:#00FF00;font-weight:bold;">Tidak</td>
+    </tr>
+    
+
+    <tr>
+        <td>20</td>
+        <td style="color:#00FF00;font-weight:bold;">Rest API DHI</td>
+        <td style="color:#00FF00;font-weight:bold;">DHI</td>
+        <td><a href="https://dhi-api.herokuapp.com" style="color:#00FF00;font-weight:bold;" target="_blank">https://dhi-api.herokuapp.com</a></td>
+        <td style="color:#00FF00;font-weight:bold;">Aktif</td>
+        <td>Rest API</td>
+        <td style="color:#00FF00;font-weight:bold;">Tidak</td>
+    </tr>
+    
+
+    <tr>
+        <td>21</td>
+        <td style="color:#00FF00;font-weight:bold;">REYXZY API</td>
+        <td style="color:#00FF00;font-weight:bold;">Reyxzy</td>
+        <td><a href="https://reyxzy-api.vercel.app" style="color:#00FF00;font-weight:bold;" target="_blank">https://reyxzy-api.vercel.app</a></td>
+        <td style="color:#00FF00;font-weight:bold;">Aktif</td>
+        <td>Public API</td>
+        <td style="color:#00FF00;font-weight:bold;">Tidak</td>
+    </tr>
+    
+
+    <tr>
+        <td>22</td>
+        <td style="color:#00FF00;font-weight:bold;">Sabila API</td>
+        <td style="color:#00FF00;font-weight:bold;">Sabila</td>
+        <td><a href="https://sabila-api-xyz.koyeb.app" style="color:#00FF00;font-weight:bold;" target="_blank">https://sabila-api-xyz.koyeb.app</a></td>
+        <td style="color:#00FF00;font-weight:bold;">Aktif</td>
+        <td>Rest API</td>
+        <td style="color:#00FF00;font-weight:bold;">Tidak</td>
+    </tr>
+    
+
+    <tr>
+        <td>23</td>
+        <td style="color:#00FF00;font-weight:bold;">Rashid API</td>
+        <td style="color:#00FF00;font-weight:bold;">Rashid</td>
+        <td><a href="https://rashid-api.xyz" style="color:#00FF00;font-weight:bold;" target="_blank">https://rashid-api.xyz</a></td>
+        <td style="color:#00FF00;font-weight:bold;">Aktif</td>
+        <td>Public API</td>
+        <td style="color:#00FF00;font-weight:bold;">APIKEY</td>
+    </tr>
+    
+
+    <tr>
+        <td>24</td>
+        <td style="color:#00FF00;font-weight:bold;">Tobz API</td>
+        <td style="color:#00FF00;font-weight:bold;">Tobz</td>
+        <td><a href="https://tobz-api.herokuapp.com" style="color:#00FF00;font-weight:bold;" target="_blank">https://tobz-api.herokuapp.com</a></td>
+        <td style="color:#00FF00;font-weight:bold;">Aktif</td>
+        <td>Rest API</td>
+        <td style="color:#00FF00;font-weight:bold;">Tidak</td>
+    </tr>
+    
+
+    <tr>
+        <td>25</td>
+        <td style="color:#00FF00;font-weight:bold;">Violetics API</td>
+        <td style="color:#00FF00;font-weight:bold;">violetics</td>
+        <td><a href="https://violetics.pw" style="color:#00FF00;font-weight:bold;" target="_blank">https://violetics.pw</a></td>
+        <td style="color:#00FF00;font-weight:bold;">Aktif</td>
+        <td>Public & Premium</td>
+        <td style="color:#00FF00;font-weight:bold;">APIKEY</td>
+    </tr>
+    
+
+    <tr>
+        <td>26</td>
+        <td style="color:#00FF00;font-weight:bold;">Zenz API</td>
+        <td style="color:#00FF00;font-weight:bold;">Zenz</td>
+        <td><a href="https://zenzapis.xyz" style="color:#00FF00;font-weight:bold;" target="_blank">https://zenzapis.xyz</a></td>
+        <td style="color:#00FF00;font-weight:bold;">Aktif</td>
+        <td>Public & Premium</td>
+        <td style="color:#00FF00;font-weight:bold;">APIKEY</td>
+    </tr>
+    
+
+    <tr>
+        <td>27</td>
+        <td style="color:#00FF00;font-weight:bold;">Zen API</td>
+        <td style="color:#00FF00;font-weight:bold;">Zen</td>
+        <td><a href="https://zenzapi.xyz" style="color:#00FF00;font-weight:bold;" target="_blank">https://zenzapi.xyz</a></td>
+        <td style="color:#00FF00;font-weight:bold;">Aktif</td>
+        <td>Free & Premium</td>
+        <td style="color:#00FF00;font-weight:bold;">APIKEY</td>
+    </tr>
+    
+        </tbody>
+    </table>
 </body>
 </html>
