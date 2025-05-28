@@ -24,7 +24,7 @@ Daftar API untuk kebutuhan Whatsapp bot
 | Vhtear | veza | [Link](https://vhtear.com) | `Aktif` | API collection | `APIKEY` |
 | Caliph API | [CaliphDev](https://caliphdev.com) | [Link](https://api.caliph.biz.id) | `Aktif` | API collection | `APIKEY` |
 | Tiklydown API | [CaliphDev](https://caliphdev.com) | [Link](https://api.tiklydown.eu.org) | `Aktif` | TikTok API | `-` |
-| Faza Api | Fadly ID | [Link](https://api-faza.herokuapp.com) | `Aktif` | API collection | `APIKEY` |
+| Fadzzz Api | FADZZZ PROJECT | [Link](https://api.fadzzzproject.my.id) | `Aktif` | API collection | `TIDAK` |
 | Ramlan Api | Ramlan ID | [Link](https://api-ramlan.herokuapp.com) | `Aktif` | API collection | `APIKEY` |
 | Hardianto | Hardianto | [Link](https://hardianto.xyz) | `Aktif` | API collection | `APIKEY` |
 | Hadi Api | m hadi | [Link](https://hadi-api.herokuapp.com/api) | `Aktif` | API collection | Tidak |
