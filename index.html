@@ -5,6 +5,49 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
   <title>Daftar REST API WhatsApp Bot</title>
   <style>
+
+.heartbeat {
+  display: inline-block;
+  animation: heartbeat 1.5s infinite;
+  color: red;
+}
+
+@keyframes heartbeat {
+  0%, 100% {
+    transform: scale(1);
+    filter: blur(0.5px);
+  }
+  25% {
+    transform: scale(1.3);
+    filter: blur(1px);
+  }
+  50% {
+    transform: scale(1);
+    filter: blur(0.5px);
+  }
+  75% {
+    transform: scale(1.3);
+    filter: blur(1px);
+  }
+}
+
+
+.blinking-dot {
+  display: inline-block;
+  width: 10px;
+  height: 10px;
+  margin-left: 6px;
+  border-radius: 50%;
+  background-color: limegreen;
+  box-shadow: 0 0 6px 2px limegreen;
+  animation: blink 1s infinite;
+}
+
+@keyframes blink {
+  0%, 100% { opacity: 1; filter: blur(1px); }
+  50% { opacity: 0.3; filter: blur(3px); }
+}
+
     body {
       margin: 0;
       font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
@@ -66,704 +109,693 @@
       <thead>
         <tr>
           <th>Nama API</th>
-          <th>Developer</th>
+          <th>Owner</th>
           <th>URL</th>
           <th>Status</th>
-          <th>Deskripsi</th>
-          <th>Auth</th>
         </tr>
       </thead>
       <tbody>
         
     <tr>
       <td>TOXIC DEVIL API</td>
-      <td><a href="[TOXIC-DEVIL](https://github.com/TOXIC-DEVIL)" target="_blank">[TOXIC-DEVIL](https://github.com/TOXIC-DEVIL)</a></td>
+      <td><a href="ToxicDevil" target="_blank">ToxicDevil</a></td>
       <td><a href="https://toxicdevilapi.vercel.app/" target="_blank">Link</a></td>
-      <td>Aktif</td>
-      <td>TOXIC DEVIL API - Free Rest API</td>
-      <td>TIDAK</td>
+      <td><span style="display: inline-flex; align-items: center;">Aktif <span class="blinking-dot"></span></span></td>    
     </tr>
     
     <tr>
       <td>NirKYY API</td>
-      <td><a href="[PurPur](https://whatsapp.com/channel/0029Vb3qLJRDuMRdjacRwe2T)" target="_blank">[PurPur](https://whatsapp.com/channel/0029Vb3qLJRDuMRdjacRwe2T)</a></td>
+      <td><a href="Nirky" target="_blank">Nirky</a></td>
       <td><a href="https://toxicdevilapi.vercel.app/" target="_blank">Link</a></td>
-      <td>Aktif</td>
-      <td>Nirkyy Logic AI & collection</td>
-      <td>TIDAK</td>
+      <td><span style="display: inline-flex; align-items: center;">Aktif <span class="blinking-dot"></span></span></td>
+      
     </tr>
     
     <tr>
       <td>XZN API</td>
       <td><a href="XZN" target="_blank">XZN</a></td>
       <td><a href="https://xzn.wtf" target="_blank">link</a></td>
-      <td>Aktif</td>
-      <td>API collection.</td>
-      <td>APIKEY</td>
+      <td><span style="display: inline-flex; align-items: center;">Aktif <span class="blinking-dot"></span></span></td>
+      
+      
     </tr>
     
     <tr>
       <td>ZEXXA API</td>
-      <td><a href="[Kira-Master](https://github.com/Kira-Master)" target="_blank">[Kira-Master](https://github.com/Kira-Master)</a></td>
+      <td><a href="Zexa" target="_blank">zexa</a></td>
       <td><a href="https://web-kira-master.cloud.okteto.net/" target="_blank">link</a></td>
-      <td>Aktif</td>
-      <td>API collection.</td>
-      <td>APIKEY</td>
+      <td><span style="display: inline-flex; align-items: center;">Aktif <span class="blinking-dot"></span></span></td>
+      
+      
     </tr>
     
     <tr>
       <td>Kimzz API</td>
-      <td><a href="Kimzz store" target="_blank">Kimzz store</a></td>
+      <td><a href="Kimz" target="_blank">Kimz</a></td>
       <td><a href="https://api.kimzzoffc.me" target="_blank">link</a></td>
-      <td>Aktif</td>
-      <td>API collection.</td>
-      <td>APIKEY</td>
+      <td><span style="display: inline-flex; align-items: center;">Aktif <span class="blinking-dot"></span></span></td>
+      
+      
     </tr>
     
     <tr>
       <td>Xcode API</td>
-      <td><a href="[Riy](https://github.com/riycoders)" target="_blank">[Riy](https://github.com/riycoders)</a></td>
+      <td><a href="Xcode" target="_blank">Xcode</a></td>
       <td><a href="https://api.xcodeteam.xyz/" target="_blank">Link</a></td>
-      <td>Aktif</td>
-      <td>API collection.</td>
-      <td>APIKEY</td>
+      <td><span style="display: inline-flex; align-items: center;">Aktif <span class="blinking-dot"></span></span></td>
+      
+      
     </tr>
     
     <tr>
       <td>KYOUKA API</td>
-      <td><a href="KyoukaDev" target="_blank">KyoukaDev</a></td>
+      <td><a href="Kyokaa" target="_blank">Kyouka</a></td>
       <td><a href="https//github.com/Yuri-Neko)| [link](https://api.nekostore.my.id" target="_blank">link</a></td>
-      <td>Aktif</td>
-      <td>API collection.</td>
-      <td>APIKEY</td>
+      <td><span style="display: inline-flex; align-items: center;">Aktif <span class="blinking-dot"></span></span></td>
+      
+      
     </tr>
     
     <tr>
       <td>Api Rull</td>
-      <td><a href="Rull" target="_blank">Rull</a></td>
+      <td><a href="Rull" target="_blank">Rul</a></td>
       <td><a href="https://apiruulzz.my.id" target="_blank">link</a></td>
-      <td>Aktif</td>
-      <td>API collection.</td>
-      <td>APIKEY</td>
+      <td><span style="display: inline-flex; align-items: center;">Aktif <span class="blinking-dot"></span></span></td>
+      
+      
     </tr>
     
     <tr>
       <td>Xteam</td>
-      <td><a href="XTEAM" target="_blank">XTEAM</a></td>
+      <td><a href="Xteam" target="_blank">Xteam</a></td>
       <td><a href="https://xteam.xyz" target="_blank">Link</a></td>
-      <td>Aktif</td>
-      <td>API collection.</td>
-      <td>APIKEY</td>
+      <td><span style="display: inline-flex; align-items: center;">Aktif <span class="blinking-dot"></span></span></td>
+      
+      
     </tr>
     
     <tr>
       <td>Danzz Api</td>
-      <td><a href="Danzz Coding" target="_blank">Danzz Coding</a></td>
+      <td><a href="Danz" target="_blank">Danz</a></td>
       <td><a href="https://danzzapi.xyz" target="_blank">Link</a></td>
-      <td>Aktif</td>
-      <td>API collection.</td>
-      <td>APIKEY</td>
+      <td><span style="display: inline-flex; align-items: center;">Aktif <span class="blinking-dot"></span></span></td>
+      
+      
     </tr>
     
     <tr>
       <td>Api Danzz</td>
-      <td><a href="Danzz Coding" target="_blank">Danzz Coding</a></td>
+      <td><a href="Danz" target="_blank">Danz</a></td>
       <td><a href="https://api-danzz.xyz" target="_blank">Link</a></td>
-      <td>Aktif</td>
-      <td>API collection.</td>
-      <td>APIKEY</td>
+      <td><span style="display: inline-flex; align-items: center;">Aktif <span class="blinking-dot"></span></span></td>
+      
+      
     </tr>
     
     <tr>
       <td>Vhtear</td>
-      <td><a href="veza" target="_blank">veza</a></td>
+      <td><a href="Veza" target="_blank">Veza</a></td>
       <td><a href="https://vhtear.com" target="_blank">Link</a></td>
-      <td>Aktif</td>
-      <td>API collection</td>
-      <td>APIKEY</td>
+      <td><span style="display: inline-flex; align-items: center;">Aktif <span class="blinking-dot"></span></span></td>
+      
+      
     </tr>
     
     <tr>
       <td>Caliph API</td>
-      <td><a href="[CaliphDev](https://caliphdev.com)" target="_blank">[CaliphDev](https://caliphdev.com)</a></td>
+      <td><a href="Caliph" target="_blank">Caliph</a></td>
       <td><a href="https://api.caliph.biz.id" target="_blank">Link</a></td>
-      <td>Aktif</td>
-      <td>API collection</td>
-      <td>APIKEY</td>
+      <td><span style="display: inline-flex; align-items: center;">Aktif <span class="blinking-dot"></span></span></td>
+      
+      
     </tr>
     
     <tr>
       <td>Tiklydown API</td>
-      <td><a href="[CaliphDev](https://caliphdev.com)" target="_blank">[CaliphDev](https://caliphdev.com)</a></td>
+      <<td><a href="Tikly" target="_blank">Tikly</a></td>
       <td><a href="https://api.tiklydown.eu.org" target="_blank">Link</a></td>
-      <td>Aktif</td>
-      <td>TikTok API</td>
-      <td>-</td>
+      <td><span style="display: inline-flex; align-items: center;">Aktif <span class="blinking-dot"></span></span></td>
     </tr>
     
     <tr>
       <td>Faza Api</td>
-      <td><a href="Fadly ID" target="_blank">Fadly ID</a></td>
+      <td><a href="Fadly" target="_blank">Fadly</a></td>
       <td><a href="https://api-faza.herokuapp.com" target="_blank">Link</a></td>
-      <td>Aktif</td>
-      <td>API collection</td>
-      <td>APIKEY</td>
+      <td><span style="display: inline-flex; align-items: center;">Aktif <span class="blinking-dot"></span></span></td>
+      
+      
     </tr>
     
     <tr>
       <td>Ramlan Api</td>
       <td><a href="Ramlan ID" target="_blank">Ramlan ID</a></td>
       <td><a href="https://api-ramlan.herokuapp.com" target="_blank">Link</a></td>
-      <td>Aktif</td>
-      <td>API collection</td>
-      <td>APIKEY</td>
+      <td><span style="display: inline-flex; align-items: center;">Aktif <span class="blinking-dot"></span></span></td>
+      
+      
     </tr>
     
     <tr>
       <td>Hardianto</td>
       <td><a href="Hardianto" target="_blank">Hardianto</a></td>
       <td><a href="https://hardianto.xyz" target="_blank">Link</a></td>
-      <td>Aktif</td>
-      <td>API collection</td>
-      <td>APIKEY</td>
+      <td><span style="display: inline-flex; align-items: center;">Aktif <span class="blinking-dot"></span></span></td>
+      
+      
     </tr>
     
     <tr>
       <td>Zenext Api</td>
-      <td><a href="[zhwzein](https://github.com/zhwzein)" target="_blank">[zhwzein](https://github.com/zhwzein)</a></td>
+      <td><a href="Zhwzen" target="_blank">Zen</a></td>
       <td><a href="https://api.ouzen.xyz" target="_blank">Link</a></td>
-      <td>Aktif</td>
-      <td>API collection</td>
-      <td>APIKEY</td>
+      <td><span style="display: inline-flex; align-items: center;">Aktif <span class="blinking-dot"></span></span></td>
+      
+      
     </tr>
     
     <tr>
       <td>Zeks Api</td>
       <td><a href="vinz" target="_blank">vinz</a></td>
       <td><a href="https://zeks.me" target="_blank">Link</a></td>
-      <td>Aktif</td>
-      <td>API collection</td>
-      <td>APIKEY</td>
+      <td><span style="display: inline-flex; align-items: center;">Aktif <span class="blinking-dot"></span></span></td>
+      
+      
     </tr>
     
     <tr>
       <td>Rns Api</td>
       <td><a href="Reysekha" target="_blank">Reysekha</a></td>
       <td><a href="https://sekha.me" target="_blank">Link</a></td>
-      <td>Aktif</td>
-      <td>API collection</td>
-      <td>APIKEY</td>
+      <td><span style="display: inline-flex; align-items: center;">Aktif <span class="blinking-dot"></span></span></td>
+      
+      
     </tr>
     
     <tr>
       <td>Xcode</td>
       <td><a href="xcode7" target="_blank">xcode7</a></td>
       <td><a href="https://api-xcoders.xyz/" target="_blank">Link</a></td>
-      <td>Aktif</td>
-      <td>API collection</td>
-      <td>APIKEY</td>
+      <td><span style="display: inline-flex; align-items: center;">Aktif <span class="blinking-dot"></span></span></td>
+      
+      
     </tr>
     
     <tr>
       <td>Neoxr</td>
       <td><a href="neoxr" target="_blank">neoxr</a></td>
       <td><a href="https://api.neoxr.eu.org" target="_blank">Link</a></td>
-      <td>Aktif</td>
-      <td>API Collection</td>
-      <td>APIKEY</td>
+      <td><span style="display: inline-flex; align-items: center;">Aktif <span class="blinking-dot"></span></span></td>
+      
+      
     </tr>
     
     <tr>
       <td>Bx Hunter</td>
       <td><a href="ikyy" target="_blank">ikyy</a></td>
       <td><a href="https://bx-hunter.herokuapp.com" target="_blank">Link</a></td>
-      <td>Aktif</td>
-      <td>API collection</td>
-      <td>APIKEY</td>
+      <td><span style="display: inline-flex; align-items: center;">Aktif <span class="blinking-dot"></span></span></td>
+      
+      
     </tr>
     
     <tr>
       <td>Ostch</td>
       <td><a href="ibnusyawall" target="_blank">ibnusyawall</a></td>
       <td><a href="https://ostch.herokuapp.com" target="_blank">Link</a></td>
-      <td>Aktif</td>
-      <td>API collection</td>
-      <td>APIKEY</td>
+      <td><span style="display: inline-flex; align-items: center;">Aktif <span class="blinking-dot"></span></span></td>
+      
+      
     </tr>
     
     <tr>
       <td>Tobz API</td>
       <td><a href="Toby" target="_blank">Toby</a></td>
       <td><a href="https://tobz-api.herokuapp.com" target="_blank">Link</a></td>
-      <td>Aktif</td>
-      <td>API collection</td>
-      <td>APIKEY</td>
+      <td><span style="display: inline-flex; align-items: center;">Aktif <span class="blinking-dot"></span></span></td>
+      
+      
     </tr>
     
     <tr>
       <td>zeksais</td>
       <td><a href="zeksais" target="_blank">zeksais</a></td>
       <td><a href="http://zekais-api.herokuapp.com" target="_blank">Link</a></td>
-      <td>Aktif</td>
-      <td>API collection</td>
-      <td>APIKEY</td>
+      <td><span style="display: inline-flex; align-items: center;">Aktif <span class="blinking-dot"></span></span></td>
+      
+      
     </tr>
     
     <tr>
       <td>Dhnjing</td>
       <td><a href="Dehan" target="_blank">Dehan</a></td>
       <td><a href="https://dhnjing.xyz" target="_blank">Link</a></td>
-      <td>Aktif</td>
-      <td>API collection</td>
-      <td>APIKEY</td>
+      <td><span style="display: inline-flex; align-items: center;">Aktif <span class="blinking-dot"></span></span></td>
+      
+      
     </tr>
     
     <tr>
       <td>Revita Api</td>
       <td><a href="Revita" target="_blank">Revita</a></td>
       <td><a href="https://revita.herokuapp.com" target="_blank">Link</a></td>
-      <td>Aktif</td>
-      <td>API collection</td>
-      <td>APIKEY</td>
+      <td><span style="display: inline-flex; align-items: center;">Aktif <span class="blinking-dot"></span></span></td>
+      
+      
     </tr>
     
     <tr>
       <td>Jarx Api</td>
       <td><a href="Fajar" target="_blank">Fajar</a></td>
       <td><a href="https://api.jarx.me" target="_blank">Link</a></td>
-      <td>Aktif</td>
-      <td>API collection</td>
-      <td>APIKEY</td>
+      <td><span style="display: inline-flex; align-items: center;">Aktif <span class="blinking-dot"></span></span></td>
+      
+      
     </tr>
     
     <tr>
       <td>Zeeone Api</td>
       <td><a href="zeeone" target="_blank">zeeone</a></td>
       <td><a href="https://api-zeeoneofc.herokuapp.com" target="_blank">Link</a></td>
-      <td>Aktif</td>
-      <td>API collection</td>
-      <td>APIKEY</td>
+      <td><span style="display: inline-flex; align-items: center;">Aktif <span class="blinking-dot"></span></span></td>
+      
+      
     </tr>
     
     <tr>
       <td>AdiOfficial API</td>
       <td><a href="M imam Adi" target="_blank">M imam Adi</a></td>
       <td><a href="https://api.adiofficial.xyz" target="_blank">Link</a></td>
-      <td>Aktif</td>
-      <td>API collection.</td>
-      <td>APIKEY</td>
+      <td><span style="display: inline-flex; align-items: center;">Aktif <span class="blinking-dot"></span></span></td>
+      
+      
     </tr>
     
     <tr>
       <td>Melcanz Rest Api</td>
-      <td><a href="[ariffb25](https://github.com/ariffb25) & [melcanz](https://github.com/melcanz)" target="_blank">[ariffb25](https://github.com/ariffb25) & [melcanz](https://github.com/melcanz)</a></td>
+      <td><a href="Amel" target="_blank">Amel</a></td>
       <td><a href="https://melcanz.com" target="_blank">Link</a></td>
-      <td>Aktif</td>
-      <td>API collection</td>
-      <td>APIKEY</td>
+      <td><span style="display: inline-flex; align-items: center;">Aktif <span class="blinking-dot"></span></span></td>
+      
+      
     </tr>
     
     <tr>
       <td>Botstyle-api</td>
-      <td><a href="[Benniismael](https://github.com/botstylee)" target="_blank">[Benniismael](https://github.com/botstylee)</a></td>
+      <td><a href="Bootstyle" target="_blank">Bootstyle</a></td>
       <td><a href="rest-beni.herokuapp.com/" target="_blank">Link</a></td>
-      <td>Aktif</td>
-      <td>API collection</td>
-      <td>TIDAK</td>
+      <td><span style="display: inline-flex; align-items: center;">Aktif <span class="blinking-dot"></span></span></td>
+      
+      
     </tr>
     
     <tr>
       <td>Onichan Api</td>
-      <td><a href="[FERDIZ-afk](https://github.com/FERDIZ-afk)" target="_blank">[FERDIZ-afk](https://github.com/FERDIZ-afk)</a></td>
+      <td><a href="Ferdi" target="_blank">Ferdi</a></td>
       <td><a href="https://oni-chan.my.id/" target="_blank">Link</a></td>
-      <td>Aktif</td>
-      <td>API collection</td>
-      <td>APIKEY</td>
+      <td><span style="display: inline-flex; align-items: center;">Aktif <span class="blinking-dot"></span></span></td>
+      
+      
     </tr>
     
     <tr>
       <td>Kotzyy API</td>
-      <td><a href="[Kotzyy](https://github.com/Kotzyy)" target="_blank">[Kotzyy](https://github.com/Kotzyy)</a></td>
+      <td><a href="Kotzyy" target="_blank">Kotzy</a></td>
       <td><a href="https://api.justkotz.tech" target="_blank">Link</a></td>
-      <td>Aktif</td>
-      <td>API Collection</td>
-      <td>APIKEY</td>
+      <td><span style="display: inline-flex; align-items: center;">Aktif <span class="blinking-dot"></span></span></td>
+      
+      
     </tr>
     
     <tr>
       <td>Sanuwa API</td>
-      <td><a href="[Sanuwa](https://github.com/sanuwaofficial)" target="_blank">[Sanuwa](https://github.com/sanuwaofficial)</a></td>
+      <td><a href="Sanuwa" target="_blank">Sanuwa</a></td>
       <td><a href="https://sanuw-api.herokuapp.com/" target="_blank">Link</a></td>
-      <td>Aktif</td>
-      <td>API Collection</td>
-      <td>APIKEY</td>
+      <td><span style="display: inline-flex; align-items: center;">Aktif <span class="blinking-dot"></span></span></td>
+      
+      
     </tr>
     
     <tr>
       <td>Wibusoft Api</td>
-      <td><a href=" [Arugaz](https://github.com/arugaz)" target="_blank"> [Arugaz](https://github.com/arugaz)</a></td>
+      <td><a href="ArugaZ" target="_blank">ArugaZ</a></td>
       <td><a href="https://api.wibusoft.com" target="_blank">Link</a></td>
-      <td>Aktif</td>
-      <td>API collection</td>
-      <td>TIDAK</td>
+      <td><span style="display: inline-flex; align-items: center;">Aktif <span class="blinking-dot"></span></span></td>
+      
+      
     </tr>
     
     <tr>
       <td>Daphuy Api</td>
-      <td><a href="dappa" target="_blank">dappa</a></td>
+      <td><a href="Daffa" target="_blank">Daffa</a></td>
       <td><a href="https://dapuhy.xyz/" target="_blank">Link</a></td>
-      <td>Aktif</td>
-      <td>API collection</td>
-      <td>APIKEY</td>
+      <td><span style="display: inline-flex; align-items: center;">Aktif <span class="blinking-dot"></span></span></td>
+      
+      
     </tr>
     
     <tr>
       <td>Jojo Api</td>
       <td><a href="jojo" target="_blank">jojo</a></td>
       <td><a href="https://docs-jojo.herokuapp.com" target="_blank">Link</a></td>
-      <td>Aktif</td>
-      <td>API collection</td>
-      <td>TIDAK</td>
+      <td><span style="display: inline-flex; align-items: center;">Aktif <span class="blinking-dot"></span></span></td>
+      
+      
     </tr>
     
     <tr>
       <td>Zacros Api</td>
       <td><a href="Zacros Team" target="_blank">Zacros Team</a></td>
       <td><a href="https://api.zacros.my.id/" target="_blank">Link</a></td>
-      <td>Aktif</td>
-      <td>API collection</td>
-      <td>TIDAK</td>
+      <td><span style="display: inline-flex; align-items: center;">Aktif <span class="blinking-dot"></span></span></td>
+      
+      
     </tr>
     
     <tr>
       <td>Cakrayp Api</td>
-      <td><a href="[Cakra YP](https://github.com/cakrayp)" target="_blank">[Cakra YP](https://github.com/cakrayp)</a></td>
+     <td><a href="Cakra" target="_blank">cakra</a></td>
       <td><a href="https://cloudsmart.my.id" target="_blank">Link</a></td>
-      <td>Aktif</td>
-      <td>API collection</td>
-      <td>APIKEY</td>
+      <td><span style="display: inline-flex; align-items: center;">Aktif <span class="blinking-dot"></span></span></td>
+      
+      
     </tr>
     
     <tr>
       <td>Wann ofc</td>
       <td><a href="wannofc" target="_blank">wannofc</a></td>
       <td><a href="https://api-invibot.herokuapp.com" target="_blank">Link</a></td>
-      <td>Aktif</td>
-      <td>API collection</td>
-      <td>APIKEY</td>
+      <td><span style="display: inline-flex; align-items: center;">Aktif <span class="blinking-dot"></span></span></td>
+      
+      
     </tr>
     
     <tr>
       <td>AquaBot API</td>
-      <td><a href="[Sanuwa](https://github.com/sanuwaofficial)" target="_blank">[Sanuwa](https://github.com/sanuwaofficial)</a></td>
+      <td><a href="Aqua" target="_blank">Aqua</a></td>
       <td><a href="https://api-aquabot.herokuapp.com/" target="_blank">Link</a></td>
-      <td>Aktif</td>
-      <td>API Collection</td>
-      <td>APIKEY</td>
+      <td><span style="display: inline-flex; align-items: center;">Aktif <span class="blinking-dot"></span></span></td>
+      
+      
     </tr>
     
     <tr>
       <td>violetics API</td>
       <td><a href="FazOne, Dehante,Zyy" target="_blank">FazOne, Dehante,Zyy</a></td>
       <td><a href="https://violetics.pw" target="_blank">Link</a></td>
-      <td>Aktif</td>
-      <td>API Collection</td>
-      <td>APIKEY</td>
+      <td><span style="display: inline-flex; align-items: center;">Aktif <span class="blinking-dot"></span></span></td>
+      
+      
     </tr>
     
     <tr>
       <td>Yourclowns API</td>
       <td><a href="Reysekha" target="_blank">Reysekha</a></td>
       <td><a href="https://yourclown.eu.org" target="_blank">Link</a></td>
-      <td>Aktif</td>
-      <td>API Collection</td>
-      <td>APIKEY</td>
+      <td><span style="display: inline-flex; align-items: center;">Aktif <span class="blinking-dot"></span></span></td>
+      
+      
     </tr>
     
     <tr>
       <td>BetaBotz API</td>
       <td><a href="Lann" target="_blank">Lann</a></td>
       <td><a href="https://api.betabotz.eu.org" target="_blank">Link</a></td>
-      <td>Aktif</td>
-      <td>API Collection</td>
-      <td>APIKEY</td>
+      <td><span style="display: inline-flex; align-items: center;">Aktif <span class="blinking-dot"></span></span></td>
+      
+      
     </tr>
     
     <tr>
       <td>Fatih Arridho API</td>
       <td><a href="Fatih" target="_blank">Fatih</a></td>
       <td><a href="https://fatiharridho.herokuapp.com" target="_blank">Link</a></td>
-      <td>Aktif</td>
-      <td>API Collection</td>
-      <td>TIDAK</td>
+      <td><span style="display: inline-flex; align-items: center;">Aktif <span class="blinking-dot"></span></span></td>
+      
+      
     </tr>
     
     <tr>
       <td>JUSTNPC API</td>
       <td><a href="Ditzzy" target="_blank">Ditzzy</a></td>
       <td><a href="https://api.justnpc.ml" target="_blank">Link</a></td>
-      <td>Aktif</td>
-      <td>API Collection</td>
-      <td>YA</td>
+      <td><span style="display: inline-flex; align-items: center;">Aktif <span class="blinking-dot"></span></span></td>
+      
+      
     </tr>
     
     <tr>
       <td>Erza API</td>
       <td><a href="erza" target="_blank">erza</a></td>
       <td><a href="https://erzaa.site" target="_blank">Link</a></td>
-      <td>Tidak</td>
-      <td>API Collection</td>
-      <td>TIDAK</td>
+      
+      
+      
     </tr>
     
     <tr>
       <td>Rullz API</td>
       <td><a href="Rull" target="_blank">Rull</a></td>
       <td><a href="https://apiruulzz.my.id" target="_blank">link</a></td>
-      <td>Aktif</td>
-      <td>API Collection</td>
-      <td>YA</td>
+      <td><span style="display: inline-flex; align-items: center;">Aktif <span class="blinking-dot"></span></span></td>
+      
+      
     </tr>
     
     <tr>
       <td>API KYOUKA</td>
       <td><a href="FAJAR TKJ" target="_blank">FAJAR TKJ</a></td>
       <td><a href="https://kyoukanime.my.id" target="_blank">link</a></td>
-      <td>Aktif</td>
-      <td>API Collection</td>
-      <td>YA</td>
+      <td><span style="display: inline-flex; align-items: center;">Aktif <span class="blinking-dot"></span></span></td>
+      
+      
     </tr>
     
     <tr>
       <td>ZeroOne API</td>
-      <td><a href="[Bintang1302](https://github.com/Bintang1302)" target="_blank">[Bintang1302](https://github.com/Bintang1302)</a></td>
+     <td><a href="Bintang" target="_blank">Bintang</a></td>
       <td><a href="https://zerooneapi.eu.org" target="_blank">Link</a></td>
-      <td>Aktif</td>
-      <td>API Collection</td>
-      <td>YA</td>
+      <td><span style="display: inline-flex; align-items: center;">Aktif <span class="blinking-dot"></span></span></td>
+      
+      
     </tr>
     
     <tr>
       <td>Noid API</td>
-      <td><a href="[xgorn](https://github.com/X-Gorn)" target="_blank">[xgorn](https://github.com/X-Gorn)</a></td>
+      <td><a href="Noid" target="_blank">Noid</a></td>
       <td><a href="https://xgorn.is-a.dev/" target="_blank">Link</a></td>
-      <td>Aktif</td>
-      <td>API Collection</td>
-      <td>APIKEY</td>
+      <td><span style="display: inline-flex; align-items: center;">Aktif <span class="blinking-dot"></span></span></td>
+      
+      
     </tr>
     
     <tr>
       <td>MySiraj API</td>
-      <td><a href="[Arizerr](https://github.com/Arizerr)" target="_blank">[Arizerr](https://github.com/Arizerr)</a></td>
+      <td><a href="Arizer" target="_blank">Arizer</a></td>
       <td><a href="https://mysiraj.ddns.net/docs" target="_blank">Link</a></td>
-      <td>Aktif</td>
-      <td>Free Rest Api</td>
-      <td>Tidak</td>
+      <td><span style="display: inline-flex; align-items: center;">Aktif <span class="blinking-dot"></span></span></td>
+      
     </tr>
     
     <tr>
       <td>Miftah API</td>
-      <td><a href="[Miftah](https://github.com/miftah0908)" target="_blank">[Miftah](https://github.com/miftah0908)</a></td>
+      <td><a href="Mifta" target="_blank">Mifta</a></td>
       <td><a href="https://api.miftah.xyz" target="_blank">Link</a></td>
-      <td>Aktif</td>
-      <td>API Collection</td>
-      <td>APIKEY</td>
+      <td><span style="display: inline-flex; align-items: center;">Aktif <span class="blinking-dot"></span></span></td>
+      
+      
     </tr>
     
     <tr>
       <td>Xyro API</td>
-      <td><a href="[Xyro](https://github.com/xyroinee)" target="_blank">[Xyro](https://github.com/xyroinee)</a></td>
+      <td><a href="Xyro" target="_blank">Xyro</a></td>
       <td><a href="https://api.xyroinee.xyz" target="_blank">Link</a></td>
-      <td>Aktif</td>
-      <td>API Collection</td>
-      <td>APIKEY</td>
+      <td><span style="display: inline-flex; align-items: center;">Aktif <span class="blinking-dot"></span></span></td>
+      
+      
     </tr>
     
     <tr>
       <td>VihangaYT API</td>
-      <td><a href="[VihangYT](https://github.com/vihangayt0)" target="_blank">[VihangYT](https://github.com/vihangayt0)</a></td>
+      <td><a href="Vihang" target="_blank">Vihang</a></td>
       <td><a href="https://vihangayt.me" target="_blank">Link</a></td>
-      <td>Aktif</td>
-      <td>API Collection</td>
-      <td>Tidak</td>
+      <td><span style="display: inline-flex; align-items: center;">Aktif <span class="blinking-dot"></span></span></td>
+      
+      
     </tr>
     
     <tr>
       <td>Zaynn API</td>
-      <td><a href="[Zaynn](https://github.com/zaynrck)" target="_blank">[Zaynn](https://github.com/zaynrck)</a></td>
+      <td><a href="Zaynnn" target="_blank">Zaynzz</a></td>
       <td><a href="https://api.zaynn.my.id" target="_blank">Link</a></td>
-      <td>Aktif</td>
-      <td>API Collection</td>
-      <td>APIKEY</td>
+      <td><span style="display: inline-flex; align-items: center;">Aktif <span class="blinking-dot"></span></span></td>
+      
+      
     </tr>
     
     <tr>
       <td>Nimesh Offical API</td>
-      <td><a href="[Nimesh Official](https://github.com/nimesh-official)" target="_blank">[Nimesh Official](https://github.com/nimesh-official)</a></td>
+      <td><a href="Nimesh" target="_blank">Nimesh</a></td>
       <td><a href="https://api.nimeshofficial.xyz" target="_blank">Link</a></td>
-      <td>Aktif</td>
-      <td>API Collection</td>
-      <td>APIKEY</td>
+      <td><span style="display: inline-flex; align-items: center;">Aktif <span class="blinking-dot"></span></span></td>
+      
+      
     </tr>
     
     <tr>
       <td>Zayn-C API</td>
-      <td><a href="[NathanaeL](https://github.com/natgvlite)" target="_blank">[NathanaeL](https://github.com/natgvlite)</a></td>
+      <td><a href="Nathanael" target="_blank">Nathanael</a></td>
       <td><a href="https://api.zayn-c.my.id" target="_blank">Link</a></td>
-      <td>Aktif</td>
-      <td>Free Rest API</td>
-      <td>Tidak</td>
+      <td><span style="display: inline-flex; align-items: center;">Aktif <span class="blinking-dot"></span></span></td>    
     </tr>
     
     <tr>
       <td>Nimesh Official API</td>
-      <td><a href="[Nimesh Official](https://github.com/nimesh-official)" target="_blank">[Nimesh Official](https://github.com/nimesh-official)</a></td>
+      <td><a href="Nimesh" target="_blank">Nimesh</a></td>
       <td><a href="https://api.nimeshofficial.xyz" target="_blank">Link</a></td>
-      <td>Aktif</td>
-      <td>API Collection</td>
-      <td>APIKEY</td>
+      <td><span style="display: inline-flex; align-items: center;">Aktif <span class="blinking-dot"></span></span></td>
+      
+      
     </tr>
     
     <tr>
       <td>VELIXS R-API</td>
-      <td><a href="[Ilsya](https://github.com/ilsyaa)" target="_blank">[Ilsya](https://github.com/ilsyaa)</a></td>
+      <td><a href="Velixs" target="_blank">Velix</a></td>
       <td><a href="https://velixs.com/rapi" target="_blank">Link</a></td>
-      <td>Aktif</td>
-      <td>API Collection</td>
-      <td>APIKEY</td>
+      <td><span style="display: inline-flex; align-items: center;">Aktif <span class="blinking-dot"></span></span></td>
+      
+      
     </tr>
     
     <tr>
       <td>ZonerAPIs</td>
-      <td><a href="[TegarPriyadi](https://github.com/TegarPriyadi)" target="_blank">[TegarPriyadi](https://github.com/TegarPriyadi)</a></td>
+      <td><a href="Tegar" target="_blank">Tegar</a></td>
       <td><a href="https://api.zonerweb.biz.id/" target="_blank">Link</a></td>
-      <td>Aktif</td>
-      <td>API Collection</td>
-      <td>APIKEY</td>
+      <td><span style="display: inline-flex; align-items: center;">Aktif <span class="blinking-dot"></span></span></td>
+      
+      
     </tr>
     
     <tr>
       <td>VihangaYT API</td>
-      <td><a href="[VihangYT](https://github.com/vihangayt0)" target="_blank">[VihangYT](https://github.com/vihangayt0)</a></td>
+      <td><a href="Vihanga" target="_blank">Vihanga</a></td>
       <td><a href="https://api.vihangayt.asia" target="_blank">Link</a></td>
-      <td>Aktif</td>
-      <td>API Collection</td>
-      <td>Tidak</td>
+      <td><span style="display: inline-flex; align-items: center;">Aktif <span class="blinking-dot"></span></span></td>
+      
+      
     </tr>
     
     <tr>
       <td>Miftah APIs</td>
-      <td><a href="[Miftah](https://github.com/miftahganzz)" target="_blank">[Miftah](https://github.com/miftahganzz)</a></td>
+     <td><a href="Miftah" target="_blank">Miftah</a></td>
       <td><a href="https://api.miftahganzz.my.id" target="_blank">Link</a></td>
-      <td>Aktif</td>
-      <td>API Collection</td>
-      <td>APIKEY</td>
+      <td><span style="display: inline-flex; align-items: center;">Aktif <span class="blinking-dot"></span></span></td>
+      
+      
     </tr>
     
     <tr>
       <td>ITzpire API</td>
-      <td><a href="[Miftah](https://github.com/miftahganzz)" target="_blank">[Miftah](https://github.com/miftahganzz)</a></td>
+     <td><a href="Itzpire" target="_blank">Itzpire</a></td>
       <td><a href="https://itzpire.site" target="_blank">Link</a></td>
-      <td>Aktif</td>
-      <td>API Collection</td>
-      <td>Tidak</td>
+      <td><span style="display: inline-flex; align-items: center;">Aktif <span class="blinking-dot"></span></span></td>
+      
+      
     </tr>
     
     <tr>
       <td>onesytex Api</td>
-      <td><a href="[mr.one](https://github.com/onepunya)" target="_blank">[mr.one](https://github.com/onepunya)</a></td>
+      <td><a href="MrOne" target="_blank">Mr one</a></td>
       <td><a href="https://onesytex.my.id" target="_blank">Link</a></td>
-      <td>Aktif</td>
-      <td>API Collection</td>
-      <td>Tidak</td>
+      <td><span style="display: inline-flex; align-items: center;">Aktif <span class="blinking-dot"></span></span></td>
+      
+      
     </tr>
     
     <tr>
       <td>MAHER API</td>
-      <td><a href="[Maher Zubair](https://github.com/Maher-Zubair)" target="_blank">[Maher Zubair](https://github.com/Maher-Zubair)</a></td>
+      <td><a href="Maher" target="_blank">Maher</a></td>
       <td><a href="https://api.maher-zubair.tech" target="_blank">Link</a></td>
-      <td>Aktif</td>
-      <td>API Collection</td>
-      <td>Tidak</td>
+      <td><span style="display: inline-flex; align-items: center;">Aktif <span class="blinking-dot"></span></span></td>
+      
+      
     </tr>
     
     <tr>
       <td>SAMIR API</td>
-      <td><a href="[SamirApi](https://github.com/samirxpikachuio)" target="_blank">[SamirApi](https://github.com/samirxpikachuio)</a></td>
+      <td><a href="Samir" target="_blank">Samir</a></td>
       <td><a href="https://samirxpikachu.onrender.com" target="_blank">Link</a></td>
-      <td>Aktif</td>
-      <td>API Collection</td>
-      <td>Tidak</td>
+      <td><span style="display: inline-flex; align-items: center;">Aktif <span class="blinking-dot"></span></span></td>
+      
+      
     </tr>
     
     <tr>
       <td>Mininxd API</td>
-      <td><a href="[Mininxd](https://github.com/mininxd)" target="_blank">[Mininxd](https://github.com/mininxd)</a></td>
+      <td><a href="Mininxd" target="_blank">Mininxd</a></td>
       <td><a href="https://api.mininxd.my.id/" target="_blank">Link</a></td>
-      <td>Aktif</td>
-      <td>API Collection</td>
-      <td>Tidak</td>
+      <td><span style="display: inline-flex; align-items: center;">Aktif <span class="blinking-dot"></span></span></td>
+      
+      
     </tr>
     
     <tr>
       <td>AgatZ API</td>
-      <td><a href="[AgatZ](https://github.com/agatdwi)" target="_blank">[AgatZ](https://github.com/agatdwi)</a></td>
+     <td><a href="Agatz" target="_blank">Agatz</a></td>
       <td><a href="https://api.agatz.xyz" target="_blank">Link</a></td>
-      <td>Aktif</td>
-      <td>API Collection</td>
-      <td>Tidak</td>
+      <td><span style="display: inline-flex; align-items: center;">Aktif <span class="blinking-dot"></span></span></td>
+      
+      
     </tr>
     
     <tr>
       <td>Termai API</td>
-      <td><a href="[TermaiApi](https://github.com/Rifza123)" target="_blank">[TermaiApi](https://github.com/Rifza123)</a></td>
+      <td><a href="Termai" target="_blank">Termai</a></td>
       <td><a href="https://xterm.tech" target="_blank">Link</a></td>
-      <td>Aktif</td>
-      <td>API Collection</td>
-      <td>APIKEY</td>
+      <td><span style="display: inline-flex; align-items: center;">Aktif <span class="blinking-dot"></span></span></td>
+      
+      
     </tr>
     
     <tr>
       <td>Chiwa RestAPI</td>
-      <td><a href="[@akane_chiwa](https://github.com/aiprojectchiwa)" target="_blank">[@akane_chiwa](https://github.com/aiprojectchiwa)</a></td>
+      <td><a href="Chiwa" target="_blank">Chiwa</a></td>
       <td><a href="https://api.chiwa.my.id" target="_blank">Link</a></td>
-      <td>Aktif</td>
-      <td>100% Free and PowerFull RestFullAPI</td>
-      <td>TIDAK</td>
+      <td><span style="display: inline-flex; align-items: center;">Aktif <span class="blinking-dot"></span></span></td>
+      
     </tr>
     
     <tr>
       <td>Hitori API</td>
-      <td><a href="[Hitori](https://github.com/bangdanzz)" target="_blank">[Hitori](https://github.com/bangdanzz)</a></td>
+      <td><a href="Hitori" target="_blank">Hitori</a></td>
       <td><a href="https://my.hitori.pw" target="_blank">Link</a></td>
-      <td>Aktif</td>
-      <td>API Collection</td>
-      <td>APIKEY</td>
+      <td><span style="display: inline-flex; align-items: center;">Aktif <span class="blinking-dot"></span></span></td>
+      
+      
     </tr>
     
     <tr>
       <td>Dluxtzy API</td>
-      <td><a href="[Wahyubotz78](https://github.com/Wahyubotz78)" target="_blank">[Wahyubotz78](https://github.com/Wahyubotz78)</a></td>
+      <td><a href="Wahyu" target="_blank">Wahyu</a></td>
       <td><a href="https://api.dluxtzy.my.id" target="_blank">Link</a></td>
-      <td>Aktif</td>
-      <td>API Collection</td>
-      <td>APIKEY</td>
+      <td><span style="display: inline-flex; align-items: center;">Aktif <span class="blinking-dot"></span></span></td>
+      
+      
     </tr>
     
     <tr>
       <td>Genux API</td>
-      <td><a href="[Genux Official](https://github.com/genux-official)" target="_blank">[Genux Official](https://github.com/genux-official)</a></td>
+     <td><a href="Genux" target="_blank">Genux</a></td>
       <td><a href="https://api.genux.me" target="_blank">Link</a></td>
-      <td>Aktif</td>
-      <td>API Collection</td>
-      <td>APIKEY</td>
+      <td><span style="display: inline-flex; align-items: center;">Aktif <span class="blinking-dot"></span></span></td>
+      
+      
     </tr>
     
       </tbody>
     </table>
   </div>
   <footer>
-    &copy; 2025 Daftar API
+    &copy; Made With Rey <span class="heartbeat">❤️</span>
   </footer>
 </body>
 </html>
