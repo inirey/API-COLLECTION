@@ -1,25 +1,45 @@
 <!DOCTYPE html>
-<html>
+<html lang="id">
 <head>
-  <meta name="google-adsense-account" content="ca-pub-6099412887691041">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-  <meta name="viewport" content="width=device-width,initial-scale=1">
-  <meta charset="UTF-8">
-  <title>Daftar Rest API Lokal Indonesia</title>
-  <link rel="stylesheet" href="//unpkg.com/docsify/themes/vue.css">
-</head>
-<body>
-  <noscript>This page requires JavaScript to work, please enable it or just read it on <a href="https://github.com/inirey/API-COLLECTION">Here</a>.</noscript>
-  <div id="app">Loading...</div>
-  <script>
-    window.$docsify = {
-      name: 'Daftar API untuk kebutuhan Whatsapp bot',
-      repo: 'https://github.com/inirey/API-COLLECTION',
-      search: ['/'],
-      relativePath: true,
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Daftar API Lokal Indonesia</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+  <style>
+    body.dark {
+      background-color: #000;
+      color: #fff;
     }
+    .dark .card {
+      background-color: #1a1a1a;
+    }
+  </style>
+</head>
+<body class="bg-white text-black transition-colors duration-300">
+  <div class="container mx-auto p-4">
+    <div class="flex justify-between items-center mb-4">
+      <h1 class="text-2xl font-bold">Daftar API Lokal Indonesia</h1>
+      <button id="toggleDark" class="bg-gray-800 text-white px-4 py-2 rounded">Toggle Mode Gelap</button>
+    </div>
+    <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
+      <!-- Contoh kartu API -->
+      <div class="card p-4 rounded shadow">
+        <h2 class="text-xl font-semibold">Nama API</h2>
+        <p class="text-sm">Deskripsi singkat tentang API.</p>
+        <a href="#" class="text-blue-500 hover:underline">Link API</a>
+      </div>
+      <!-- Tambahkan lebih banyak kartu sesuai kebutuhan -->
+    </div>
+    <footer class="mt-8 text-center text-sm">
+      © 2019 Made With Rey ❤️
+    </footer>
+  </div>
+  <script>
+    const toggle = document.getElementById('toggleDark');
+    const body = document.body;
+    toggle.addEventListener('click', () => {
+      body.classList.toggle('dark');
+    });
   </script>
-  <script src="//unpkg.com/docsify/lib/docsify.min.js"></script>
-  <script src="//unpkg.com/docsify/lib/plugins/search.min.js"></script>
 </body>
 </html>
