@@ -8,6 +8,7 @@ Daftar API untuk kebutuhan Whatsapp bot
 
 | Nama API        | Developer | URL | Status  | Deskripsi | Auth |
 | --------------- |:---------:|:---:|:-------:|:----------|:------:|
+| Fgsi RestAPIs | [FongsiDev](https://github.com/Fgsi-APIs) | [Link](https://fgsi1-restapi.hf.space) | `Aktif` | TOXIC DEVIL API - Free Rest API | `TIDAK` |
 | TOXIC DEVIL API | [TOXIC-DEVIL](https://github.com/TOXIC-DEVIL) | [Link](https://toxicdevilapi.vercel.app/) | `Aktif` | TOXIC DEVIL API - Free Rest API | `TIDAK` |
 | NirKYY API | [PurPur](https://whatsapp.com/channel/0029Vb3qLJRDuMRdjacRwe2T) | [Link](https://toxicdevilapi.vercel.app/) | `Aktif` | Nirkyy Logic AI & collection | `TIDAK` |
 | XZN API | XZN | [link](https://xzn.wtf) | `Aktif` | API collection. | `APIKEY` |
