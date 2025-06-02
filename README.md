@@ -31,7 +31,7 @@ Daftar API untuk kebutuhan Whatsapp bot
 | Hadi Api | m hadi | [Link](https://hadi-api.herokuapp.com/api) | `Aktif` | API collection | Tidak |
 | Zenext Api | [zhwzein](https://github.com/zhwzein) | [Link](https://api.ouzen.xyz) | `Aktif` | API collection | `APIKEY` |
 | Zeks Api | vinz | [Link](https://zeks.me) | `Aktif` | API collection | `APIKEY` |
-| Rns Api | Reysekha | [Link](https://sekha.me) | `Aktif` | API collection | `APIKEY` |
+| Rinz api | Rey | [Link](https://rinz.my.id) | `Aktif` | API collection | `APIKEY` |
 | Starz Api | Bintang | [Link](http://st4rz.herokuapp.com/) | `Aktif` | API collection | Tidak |
 | Xcode | xcode7 | [Link](https://api-xcoders.xyz/) | `Aktif` | API collection | `APIKEY` |
 | ArugaZ API | ArugaZ | [Link](https://restfulapi.my.id/arugaz) | `Aktif` | Hasil Scrape Website - Lengkap | Tidak |
@@ -57,7 +57,7 @@ Daftar API untuk kebutuhan Whatsapp bot
 | Free Rest API | [SAMPINDO](https://sampindo.id) | [Link](https://freeapi.sampindo.id/) | `Aktif` | API Collection | Tidak |
 | Kotzyy API | [Kotzyy](https://github.com/Kotzyy) | [Link](https://api.justkotz.tech) | `Aktif` | API Collection | `APIKEY` |
 | Sanuwa API | [Sanuwa](https://github.com/sanuwaofficial) | [Link](https://sanuw-api.herokuapp.com/) | `Aktif` | API Collection | `APIKEY` |
-| Wibusoft Api |  [Arugaz](https://github.com/arugaz) | [Link](https://api.wibusoft.com) | `Aktif` | API collection | `TIDAK` |
+| Wibusoft Api |  [Arugaz](https://github.com/arugaz) | [Link](https://wibusoft.com) | `Aktif` | API collection | `TIDAK` |
 | Daphuy Api | dappa | [Link](https://dapuhy.xyz/) | `Aktif` | API collection | `APIKEY` |
 | Jojo Api | jojo | [Link](https://docs-jojo.herokuapp.com) | `Aktif` | API collection | `TIDAK` |
 | Zacros Api | Zacros Team | [Link](https://api.zacros.my.id/) | `Aktif` | API collection | `TIDAK` |
@@ -67,7 +67,7 @@ Daftar API untuk kebutuhan Whatsapp bot
 | YUU API | sidaniid | [Link](https://yuuapi.herokuapp.com) | `Aktif` | API Collection| `APIKEY` |
 | AquaBot API | [Sanuwa](https://github.com/sanuwaofficial) | [Link](https://api-aquabot.herokuapp.com/) | `Aktif` | API Collection | `APIKEY` |
 | violetics API | FazOne, Dehante,Zyy | [Link](https://violetics.pw) | `Aktif` | API Collection | `APIKEY` |
-| Yourclowns API | Reysekha | [Link](https://yourclown.eu.org) | `Aktif` | API Collection | `APIKEY` |
+| Yourclowns API | Rey | [Link](https://yourclown.eu.org) | `Aktif` | API Collection | `APIKEY` |
 | BetaBotz API | Lann | [Link](https://api.betabotz.eu.org) | `Aktif` | API Collection | `APIKEY` |
 | Fatih Arridho API | Fatih | [Link](https://fatiharridho.herokuapp.com) | `Aktif` | API Collection | `TIDAK` |
 | JUSTNPC API | Ditzzy | [Link](https://api.justnpc.ml) | `Aktif` | API Collection | `YA` |
