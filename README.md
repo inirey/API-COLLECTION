@@ -99,6 +99,7 @@ Daftar API untuk kebutuhan Whatsapp bot
 | Hitori API | [Hitori](https://github.com/bangdanzz) | [Link](https://my.hitori.pw) | `Aktif` | API Collection | `APIKEY` |
 | Dluxtzy API | [Wahyubotz78](https://github.com/Wahyubotz78) | [Link](https://api.dluxtzy.my.id) | `Aktif` | API Collection | `APIKEY` |
 | Genux API | [Genux Official](https://github.com/genux-official) | [Link](https://api.genux.me) | `Aktif` | API Collection | `APIKEY` |
+| Maslent API | [Maslent]([https://github.com/MZLNT] | [Link](https://maslent.site) | `Aktif` | API Collection | `APIKEY` |
 
 
 ## :fire: Tambahan
