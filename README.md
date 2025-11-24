@@ -8,6 +8,7 @@ Daftar API untuk kebutuhan Whatsapp bot
 
 | Nama API        | Developer | URL | Status  | Deskripsi | Auth |
 | --------------- |:---------:|:---:|:-------:|:----------|:------:|
+| NextA API | [Puru Puru](https://nexta-api.vercel.app/) | [Link](https://nexta-api.vercel.app/docs) | `Aktif` | NextA API: Free & Fast, No signup & limit| `TIDAK` |
 | Fgsi RestAPIs | [FongsiDev](https://github.com/Fgsi-APIs) | [Link](https://fgsi1-restapi.hf.space) | `Aktif` | Fgsi RestAPIs | `TIDAK` |
 | TOXIC DEVIL API | [TOXIC-DEVIL](https://github.com/TOXIC-DEVIL) | [Link](https://toxicdevilapi.vercel.app/) | `Aktif` | TOXIC DEVIL API - Free Rest API | `TIDAK` |
 | NirKYY API | [PurPur](https://whatsapp.com/channel/0029Vb3qLJRDuMRdjacRwe2T) | [Link](https://toxicdevilapi.vercel.app/) | `Aktif` | Nirkyy Logic AI & collection | `TIDAK` |
@@ -104,3 +105,4 @@ Daftar API untuk kebutuhan Whatsapp bot
 ## :fire: Tambahan
 
 Jika ingin menambahkan List API nya langsung aja pull request Arigatou :)
+
