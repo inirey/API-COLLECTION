@@ -99,11 +99,12 @@ Daftar API untuk kebutuhan Whatsapp bot
 | Hitori API | [Hitori](https://github.com/bangdanzz) | [Link](https://my.hitori.pw) | `Aktif` | API Collection | `APIKEY` |
 | Dluxtzy API | [Wahyubotz78](https://github.com/Wahyubotz78) | [Link](https://api.dluxtzy.my.id) | `Aktif` | API Collection | `APIKEY` |
 | Genux API | [Genux Official](https://github.com/genux-official) | [Link](https://api.genux.me) | `Aktif` | API Collection | `APIKEY` |
-| onepunya api| [onepunya/mr.one.id](https://onepunya.github.io/siswanda-fox_onepunya-/) | [Link](https://api-playground-plum.vercel.app/) | `Aktif` | API Collection | `TIDAK` |
+| onepunya api| [onepunya/mr.one.id](https://onepunya.github.io/siswanda-fox_onepunya-/) | [Link](https://onepunya.qzz.io) | `Aktif` | API Collection | `TIDAK` |
 
 
 
 ## :fire: Tambahan
 
 Jika ingin menambahkan List API nya langsung aja pull request Arigatou :)
+
 
