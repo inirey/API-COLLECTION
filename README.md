@@ -121,5 +121,3 @@ Daftar API untuk kebutuhan Whatsapp bot
 ## :fire: Tambahan
 
 Jika ingin menambahkan List API nya langsung aja pull request Arigatou :)
-
-
