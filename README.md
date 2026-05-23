@@ -34,9 +34,9 @@ Daftar API untuk kebutuhan Whatsapp bot
 | Zenext Api | [zhwzein](https://github.com/zhwzein) | [Link](https://api.ouzen.xyz) | `Aktif` | API collection | `APIKEY` |
 | Zeks Api | vinz | [Link](https://zeks.me) | `Aktif` | API collection | `APIKEY` |
 | Rinz api | Rinz | [Link](https://rinz.my.id) | `Aktif` | API collection | `APIKEY` |
-| Starz Api | Bintang | [Link](http://st4rz.herokuapp.com/) | `Aktif` | API collection | Tidak |
+| Starz Api | Bintang | [Link](http://st4rz.herokuapp.com/) | `Nonactive` | API collection | Tidak |
 | Xcode | xcode7 | [Link](https://api-xcoders.xyz/) | `Aktif` | API collection | `APIKEY` |
-| ArugaZ API | ArugaZ | [Link](https://restfulapi.my.id/arugaz) | `Aktif` | Hasil Scrape Website - Lengkap | Tidak |
+| ArugaZ API | ArugaZ | [Link](https://restfulapi.my.id/arugaz) | `Nonactive` | Hasil Scrape Website - Lengkap | Tidak |
 | Neoxr | neoxr | [Link](https://api.neoxr.eu.org) | `Aktif` | API Collection | `APIKEY` |
 | Lolhuman Api| lolhuman | [Link](https://api.lolhuman.xyz) | `Aktif` | API collection | `APIKEY` |
 | Bx Hunter | ikyy | [Link](https://bx-hunter.herokuapp.com) | `Aktif` | API collection | `APIKEY` |
