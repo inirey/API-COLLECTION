@@ -11,7 +11,6 @@ Daftar API untuk kebutuhan Whatsapp bot
 | Kyio API | [Har](https://github.com/kyiov) | [Link](https://api.kyio.web.id) | `Aktif` | API Collection | - |
 | Tegar API | [Raynazawa](https://github.com/RayNozawa) | [Link](https://marin.tegarx.web.id) | `Aktif` | API Collection | `APIKEY` 
 | azbry Api | [Febry wesker](https://github.com/vandebry10-star) | [Link](https://api.azbry.com) | `Aktif` | API Collection | `APIKEY` 
-| Harz Rest API | [Harz](https://github.com/Har404-err) | [Link](https://api.harzrestapi.web.id) | `Aktif` | API Collection | `TIDAK` |
 | Fgsi RestAPIs | [FongsiDev](https://github.com/Fgsi-APIs) | [Link](https://fgsi.koyeb.app) | `Aktif` | Fgsi RestAPIs | `APIKEY` |
 | TOXIC DEVIL API | [TOXIC-DEVIL](https://github.com/TOXIC-DEVIL) | [Link](https://toxicdevilapi.vercel.app/) | `Aktif` | TOXIC DEVIL API - Free Rest API | `TIDAK` |
 | NirKYY API | [PurPur](https://whatsapp.com/channel/0029Vb3qLJRDuMRdjacRwe2T) | [Link](https://toxicdevilapi.vercel.app/) | `Aktif` | Nirkyy Logic AI & collection | `TIDAK` |
