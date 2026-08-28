@@ -8,6 +8,7 @@ Daftar API untuk kebutuhan Whatsapp bot
 
 | Nama API        | Developer | URL | Status  | Deskripsi | Auth |
 | --------------- |:---------:|:---:|:-------:|:----------|:------:|
+| lunarin API | [SeptiaDev](https://septia.id) | [Link](https://lunarin.sbs) | `Aktif` | API Collection | `APIKEY`
 | Kyio API | [Har](https://github.com/kyiov) | [Link](https://api.kyio.web.id) | `Aktif` | API Collection | - |
 | Tegar API | [Raynazawa](https://github.com/RayNozawa) | [Link](https://marin.tegarx.web.id) | `Aktif` | API Collection | `APIKEY` 
 | azbry Api | [Febry wesker](https://github.com/vandebry10-star) | [Link](https://api.azbry.com) | `Aktif` | API Collection | `APIKEY` 
